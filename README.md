@@ -6,4 +6,4 @@ Website: [Phantom Inc](http://phantominc.net)
 
 Github Version (Remove Later) [Link](https://jeremysmai.github.io/phantominc/)
 
-Made using a template from [HTML5Up](https://html5up.com)
+Made using a template from [HTML5Up](https://html5up.net)
