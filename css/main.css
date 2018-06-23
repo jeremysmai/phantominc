@@ -5,3 +5,15 @@
 @import url(solid.css);
 @import url(v4-shims.css);
 @import url(v4-shims.min.css);
+
+
+html, {
+  background-image: 'images/background.jpg';
+  margin: 0;
+  padding: 0;
+  font: helvetica;
+}
+
+ul li{
+    display:inline-block;
+}
