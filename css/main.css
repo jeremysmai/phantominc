@@ -9,9 +9,7 @@
 
 html{
   background-image: url("images/background.jpg");
-  margin: 5;
-  padding: 5;
-  font: helvetica;
+  background-repeat: repeat;
 }
 
 ul li{
