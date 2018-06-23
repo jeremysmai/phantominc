@@ -1,10 +1,10 @@
-@import url(fontawesome.css);
-@import url(all.css);
-@import url(brands.css);
-@import url(regular.css);
-@import url(solid.css);
-@import url(v4-shims.css);
-@import url(v4-shims.min.css);
+@import url("css/fontawesome.css");
+@import url("css/all.css");
+@import url("css/brands.css");
+@import url("css/regular.css");
+@import url("css/solid.css");
+@import url("css/v4-shims.css");
+@import url("css/v4-shims.min.css");
 
 
 html{
