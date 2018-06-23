@@ -1,10 +1,10 @@
-@import url("fontawesome.css");
-@import url("all.css");
-@import url("brands.css");
-@import url("regular.css");
-@import url("solid.css");
-@import url("v4-shims.css");
-@import url("v4-shims.min.css");
+@import url(fontawesome.css);
+@import url(all.css);
+@import url(brands.css);
+@import url(regular.css);
+@import url(solid.css);
+@import url(v4-shims.css);
+@import url(v4-shims.min.css);
 
 @@font-face {
   font-family: fontawesome;
