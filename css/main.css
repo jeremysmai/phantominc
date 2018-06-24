@@ -11,7 +11,7 @@
   src: url(fonts/fa-regular-400.woff);
 }
 
-html,body,footer {
+html,body,footer,div {
   background: grey url("images/background.jpg") no-repeat fixed center;
   font-family: sans-serif;
   color: white;
