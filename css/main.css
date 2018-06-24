@@ -25,6 +25,7 @@ html,body,footer,div,table{
 ul li{
     display: inline-block;
 }
+
 .menu{
   font-size: 20px;
   font-family: sans-serif;
