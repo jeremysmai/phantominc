@@ -22,7 +22,7 @@ html,body {
 }
 
 ul li{
-    display: inline-flex;
+    display: inline-block;
 }
 .menu{
   font-size: 20px;
