@@ -31,4 +31,7 @@ footer{
   padding-top: 15px;
   padding-bottom: 15px;
 }
-nav:hover {background: LightGray;}
+nav:hover {
+  background-color: LightGray;
+  color: white;
+}
