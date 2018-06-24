@@ -14,6 +14,7 @@
 html,body {
   background: grey url(images/background.jpg);
   font-family: sans-serif;
+  color: white;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 15px;
