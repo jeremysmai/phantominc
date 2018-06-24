@@ -21,6 +21,9 @@ html,body,footer,div,table{
   padding-right: 15px;
   margin-bottom: 15px;
 }
+ul li{
+    display: inline-block;
+}
 .menu{
   font-size: 20px;
   font-family: sans-serif;
@@ -29,7 +32,6 @@ html,body,footer,div,table{
   padding: 15px 15px;
   margin: 2px 2px;
   text-align: center;
-  display: inline-block;
 }
 
 .menu:hover {
