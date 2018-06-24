@@ -15,6 +15,9 @@ html,body {
   background: grey url(images/background.jpg);
   font-family: fontawesome;
   padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 ul li{
