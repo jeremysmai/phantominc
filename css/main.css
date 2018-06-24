@@ -37,6 +37,6 @@ ul li{
 
 .menu:hover {
   background-color: black;
-  color: white;
+  color: lime;
   opacity: 0.6;
 }
