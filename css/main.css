@@ -13,7 +13,7 @@
 
 html,body {
   background: grey url(images/background.jpg);
-  font-family: fontawesome;
+  font-family: sans-serif;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 15px;
@@ -21,9 +21,13 @@ html,body {
 }
 
 ul li{
-    display:inline-block;
+    display: inline-flex;
 }
 nav{
   font-size: 20px;
   font-family: sans-serif;
+}
+footer{
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
