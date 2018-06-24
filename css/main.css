@@ -23,7 +23,7 @@ html,body {
 ul li{
     display: inline-flex;
 }
-nav{
+.menu{
   font-size: 20px;
   font-family: sans-serif;
 }
@@ -31,7 +31,7 @@ footer{
   padding-top: 15px;
   padding-bottom: 15px;
 }
-nav:hover {
+.menu:hover {
   background-color: LightGray;
   color: white;
 }
