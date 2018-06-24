@@ -29,6 +29,7 @@ ul li{
   font-size: 20px;
   font-family: sans-serif;
   color: lime;
+  background-color: black;
   padding: 15px 15px;
   margin: 2px 2px;
   text-align: center;
@@ -36,6 +37,5 @@ ul li{
 
 .menu:hover {
   background-color: black;
-  color: white;
   opacity: 0.6;
 }
