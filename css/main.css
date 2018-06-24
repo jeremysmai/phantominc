@@ -37,7 +37,7 @@ footer{
   padding-bottom: 15px;
 }
 .menu:hover {
-  background-color: LightGray;
+  background-color: Black;
   color: white;
   opacity: 0.6;
 }
