@@ -6,7 +6,7 @@
 @import url(v4-shims.css);
 @import url(v4-shims.min.css);
 
-@@font-face {
+@font-face {
   font-family: fontawesome;
   src: url(fonts/fa-regular-400.woff);
 }
