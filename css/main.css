@@ -27,7 +27,7 @@ html{
   background-position: center;
   background-attachment: fixed;
 }
-ul li{
+ul,li{
     float: inherit;
     display: inline-block;
 }
