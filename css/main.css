@@ -26,6 +26,7 @@ body{
 
 }
 ul li{
+    float: center;
     display: inline-block;
 }
 
