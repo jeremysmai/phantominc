@@ -12,7 +12,7 @@
 }
 
 html,body,footer,div,table{
-  background: grey url("images/background.jpg") no-repeat fixed center;
+  background: grey url("images/background.jpg");
   font-family: sans-serif;
   color: white;
   padding-top: 10px;
