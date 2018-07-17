@@ -43,7 +43,7 @@ ul li{
 }
 
 .menu:hover {
-  background-color: white;
-  color: grey;
+  /* background-color: white; */
+  color: #383838;
   opacity: 0.3;
 }
