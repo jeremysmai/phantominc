@@ -44,6 +44,6 @@ ul,li{
 
 .menu:hover {
   /* background-color: white; */
-  color: #383838;
+  color: grey;
   opacity: 0.3;
 }
