@@ -30,14 +30,14 @@ ul li{
   font-size: 20px;
   font-family: sans-serif;
   color: lime;
-  background-color: black;
+  background-color: ;
   padding: 15px 15px;
   margin: 2px 2px;
   text-align: center;
 }
 
 .menu:hover {
-  background-color: black;
+  background-color: white;
   color: lime;
   opacity: 0.3;
 }
