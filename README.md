@@ -3,10 +3,11 @@
 <img src="images/logo.jpg" width="200" height="200"></img>
 
 Website: [Phantom Inc](http://phantominc.net)
+* Currently Being built from the ground up
 
 Github Version (Remove Later) [Link](https://jeremysmai.github.io/phantominc/)
 
-Made using a template from [HTML5Up](https://html5up.net)
+Made using a template from [HTML5Up](https://html5up.net) (currently used for the old site)
 
 #### To Do
 - [ ] Finish Index
