@@ -23,7 +23,7 @@ html,body,footer,div,table{
 }
 
 ul li{
-    display: inline;
+    display: inline-block;
 }
 
 .menu{
