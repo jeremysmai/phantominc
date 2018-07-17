@@ -25,6 +25,7 @@ html{
   /* background: grey url("images/background.jpg"); */
   background: linear-gradient(gray, #383838, gray);
   background-position: center;
+  background-attachment: fixed;
 }
 ul li{
     float: inherit;
