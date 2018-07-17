@@ -11,7 +11,7 @@
   src: url(fonts/fa-regular-400.woff);
 }
 
-html,footer,div,table{
+body,footer,div,table{
   font-family: sans-serif;
   color: white;
   padding-top: 10px;
@@ -21,7 +21,7 @@ html,footer,div,table{
   margin-bottom: 15px;
 }
 
-body{
+html{
   /* background: grey url("images/background.jpg"); */
   background: linear-gradient(gray, #383838, gray);
 }
