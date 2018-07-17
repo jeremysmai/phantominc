@@ -23,7 +23,7 @@ html,footer,div,table{
 
 body{
   /* background: grey url("images/background.jpg"); */
-  background: linear-gradient(gray, white, #383838);
+  background: linear-gradient(gray, , #383838);
 }
 ul li{
     float: center;
