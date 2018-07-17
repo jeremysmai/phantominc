@@ -26,7 +26,7 @@ html{
   background: linear-gradient(gray, #383838, gray);
 }
 ul li{
-    float: center;
+    float: inherit;
     display: inline-block;
 }
 
