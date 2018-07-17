@@ -11,8 +11,7 @@
   src: url(fonts/fa-regular-400.woff);
 }
 
-html,body,footer,div,table{
-  background: grey url("images/background.jpg");
+html,footer,div,table{
   font-family: sans-serif;
   color: white;
   padding-top: 10px;
@@ -22,6 +21,10 @@ html,body,footer,div,table{
   margin-bottom: 15px;
 }
 
+body{
+  background: grey url("images/background.jpg");
+
+}
 ul li{
     display: inline-block;
 }
