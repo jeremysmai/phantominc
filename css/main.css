@@ -65,19 +65,3 @@ footer{
   padding-right: 15px;
   margin-bottom: 15px;
 }
-
-.dropdown{
-    float: left;
-    overflow: hidden;
-}
-
-.dropbtn{
-  font-size: 20px;
-  font-family: sans-serif;
-  border-radius: 2px;
-  color: white;
-  background-color: #383838;
-  padding: 15px 15px;
-  margin: 2px 2px;
-  text-align: center;
-}
