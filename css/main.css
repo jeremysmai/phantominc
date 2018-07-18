@@ -28,6 +28,7 @@ html{
   background-position: center;
   background-attachment: fixed;
 }
+
 ul,li{
     float: inherit;
     display: inline-block;
@@ -44,7 +45,7 @@ ul,li{
   text-align: center;
 }
 
-.menu:hover {
+.menu:hover{
   /* background-color: white; */
   color: grey;
   opacity: 0.3;
@@ -63,4 +64,9 @@ footer{
   padding-left: 15px;
   padding-right: 15px;
   margin-bottom: 15px;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
 }
