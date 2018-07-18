@@ -11,6 +11,7 @@
   src: url(fonts/fa-regular-400.woff);
 }
 
+
 body,div,table{
   font-family: sans-serif;
   color: white;
@@ -47,6 +48,10 @@ ul,li{
   /* background-color: white; */
   color: grey;
   opacity: 0.3;
+}
+
+.logo{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
 footer{
