@@ -56,6 +56,23 @@ ul,li{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
+.fbmenu{
+  font-size: 20px;
+  font-family: sans-serif;
+  border: none;
+  border-radius: 2px;
+  color: white;
+  background-color: #383838;
+  padding: 15px 15px;
+  margin: 2px 2px;
+  text-align: center;
+}
+
+.fbhover{
+  color: grey;
+  opacity: 0.3;
+}
+
 footer{
   position: relative;
   font-family: sans-serif;
