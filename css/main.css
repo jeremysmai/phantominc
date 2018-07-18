@@ -39,13 +39,13 @@ ul,li{
   color: white;
   background-color: #383838;
   padding: 15px 15px;
-  margin: 2px 2px;
+  /* margin: 2px 2px; */
   text-align: center;
 }
 
 .menu:hover {
   /* background-color: white; */
-  /*color: grey; */
+  color: grey;
   opacity: 0.3;
 }
 
