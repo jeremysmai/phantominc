@@ -2,7 +2,7 @@
 ## Phantom Inc. Official Repo
 <img src="images/logo.jpg" width="200" height="200"></img>
 
-Website: [Phantom Inc](http://phantominc.net)
+Website: [Phantom Inc](https://www.phantominc.net)
 * Currently Being built from the ground up
 
 Github Version (Remove Later) [Link](https://jeremysmai.github.io/phantominc/)
