@@ -16,8 +16,5 @@ Made using a template from [HTML5Up](https://html5up.net) (currently used for th
 - [ ] Work Page
 - [ ] Contact Page
 
-#### Downloads (TO DO)
-[Downloads](https://jeremysmai.github.io/phantominc/downloads/Downloads.md)
-
 Test Test Test
 /    /    /
