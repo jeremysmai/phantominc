@@ -9,12 +9,15 @@ Github Version (Remove Later) [Link](https://jeremysmai.github.io/phantominc/)
 
 Made using a template from [HTML5Up](https://html5up.net) (currently used for the old site)
 
-#### To Do
+#### To Do 
 - [ ] Finish Index
 - [ ] Downloads Page
 - [ ] jeremysmai Page
 - [ ] Work Page
 - [ ] Contact Page
+
+#### Downloads (TO DO)
+[Downloads](https://jeremysmai.github.io/phantominc/downloads/Downloads.md)
 
 Test Test Test
 /    /    /
