@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!-- PHANTOM INC 2019 __JUKE SITE__
+        This site exists to run on small devices such as Raspberry Pi, while Jeremy Games okay? Cool.
+          | ''|
+  -->
+  <html>
+  <head>
+    <title>JUKE ~ Pi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    #jukechat {
+      width: 100%;
+      padding: 50px 0;
+      text-align: center;
+      background-color: #6441A4;
+      margin-top: 20px;
+    }
+    #jukefeed {
+      width: 100%;
+      padding: 50px 0;
+      text-align: center;
+      background-color: #6441A4;
+      margin-top: 20px;
+    }
+    </style>
+    </head>
+    <body>
+	<div style="color:white;">
+    <p>Feed & Chat from <a html="https://www.twitch.tv/jukeboxtv_"></a></p>
+
+    <center><button onclick="jukefeed()">hide/show jukefeed</button></center>
+    <div id="jukefeed">
+      jukefeed
+    </div>
+
+    <center><button onclick="jukechat()">hide/show jukechat</button></center>
+    <div id="jukechat">
+    jukechat
+    </div>
+
+
+    <script>
+    function jukefeed() {
+      var x = document.getElementById("jukefeed");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+    }
+     function jukechat() {
+      var x = document.getElementById("jukechat");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+    }
+    </script>
+
+  </body>
+
+  </html>
