@@ -3,8 +3,8 @@
         This site exists to run on small devices such as Raspberry Pi, while Jeremy Games okay? Cool.
           | ''|
   -->
-  <html>
-  <head>
+<html>
+ <head>
     <title>JUKE ~ Pi</title>
     <!-- Mobile Site Fix BB -->
       <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -18,22 +18,20 @@
         padding-top: 10px;
      }
       #jukechat {
-        width: 100%;
         background-color: #6441A4;
         margin-top: 20px;
         float: right;
      }
       #jukefeed {
-        width: 100%;
         background-color: #6441A4;
         margin-top: 20px;
         float: left;
       }
     </style>
-    </head>
+  </head>
     <body>
-    <h1>JUKE PI</h1>
-    <p>Feed & Chat from <a href="https://www.twitch.tv/jukeboxtv_">JUKEBOXTV_</a></p>
+      <h1>JUKE PI</h1>
+      <p>Feed & Chat from <a href="https://www.twitch.tv/jukeboxtv_">JUKEBOXTV_</a></p>
 
     <button onclick="jukefeed()">hide/show jukefeed</button>
     <div id="jukefeed">
@@ -44,16 +42,12 @@
       scrolling="no"
       height="378"
       width="620" >
-    </iframe>
+      </iframe>
     </div>
 
     <button onclick="jukechat()">hide/show jukechat</button>
     <div id="jukechat">
-     <iframe src="https://www.twitch.tv/embed/jukeboxtv_/chat"
-     frameborder="0"
-     scrolling="no"
-     height="500"
-     width="350">
+     <iframe src="https://www.twitch.tv/embed/jukeboxtv_/chat">
      </iframe>
     </div>
 
