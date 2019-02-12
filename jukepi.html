@@ -22,7 +22,7 @@
         text-align: center;
         background-color: #6441A4;
         margin-top: 20px;
-        overflow: hidden;
+        float: right;
      }
       #jukefeed {
         width: 100%;
@@ -31,7 +31,6 @@
         background-color: #6441A4;
         margin-top: 20px;
         float: left;
-        overflow: hidden;
       }
     </style>
     </head>
@@ -39,7 +38,7 @@
     <h1>JUKE PI</h1>
     <p>Feed & Chat from <a href="https://www.twitch.tv/jukeboxtv_">JUKEBOXTV_</a></p>
 
-    <center><button onclick="jukefeed()">hide/show jukefeed</button></center>
+    <button onclick="jukefeed()">hide/show jukefeed</button>
     <div id="jukefeed">
       <iframe
       src="https://player.twitch.tv/?channel=jukeboxtv_"
@@ -51,7 +50,7 @@
     </iframe>
     </div>
 
-    <center><button onclick="jukechat()">hide/show jukechat</button></center>
+    <button onclick="jukechat()">hide/show jukechat</button>
     <div id="jukechat">
      <iframe src="https://www.twitch.tv/embed/jukeboxtv_/chat"
      id="chat_embed"
