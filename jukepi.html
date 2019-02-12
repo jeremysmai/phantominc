@@ -18,16 +18,22 @@
         padding-top: 10px;
      }
       #jukechat {
-        width: 100%;
+        width: 50%;
         background-color: #6441A4;
         margin-top: 20px;
+        float: left;
      }
       #jukefeed {
-        width: 100%;
+        width: 50%;
         background-color: #6441A4;
         margin-top: 20px;
         float: left;
       }
+      @media screen and (max-width:800px) {
+  .jukechat, .jukefeed {
+    width:100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}
     </style>
   </head>
     <body>
