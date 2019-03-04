@@ -34,6 +34,7 @@
     <body>
       <h1>JUKE PI</h1>
       <p>Feed & Chat from <a href="https://www.twitch.tv/jukeboxtv_">JUKEBOXTV_</a></p>
+      <p> <i> Works best without add ons enabled </i></p>
 
     <button onclick="jukefeed()">hide/show jukefeed</button>
     <div id="jukefeed">
@@ -58,6 +59,21 @@
      </iframe>
     </div>
 
+    <button onclick="mixfeed()">hide/show jukechat</button>
+      <div id="mixfeed">
+        <iframe allowfullscreen="true"
+        src="https://mixer.com/embed/player/JukeboxTV?disableLowLatency=1"
+        width="620"
+        height="349">
+  </iframe>
+
+    <button onclick="mixchat()">hide/show jukechat</button>
+      <div id="mixchat">
+        <iframe allowfullscreen="true"
+        src="https://mixer.com/embed/chat/JukeboxTV"
+        width="378"
+        height="620">
+  </iframe>
 
     <script>
     function jukefeed() {
@@ -70,6 +86,22 @@
     }
      function jukechat() {
       var x = document.getElementById("jukechat");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+    }
+    function mixfeed() {
+      var x = document.getElementById("mixfeed");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+    }
+     function mixhat() {
+      var x = document.getElementById("mixchat");
       if (x.style.display === "none") {
         x.style.display = "block";
       } else {
