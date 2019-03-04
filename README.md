@@ -6,11 +6,11 @@ Website: [Phantom Inc](https://www.phantominc.net)
 * Currently Being built from the ground up
 
 #### To Do
-- [mostly] Add Mobile adaption
-- [pending] Finish Index
+- [concept] Pick a color scheme CSS BB
+- [partially] Finish Index
 - [pending] Downloads Page
 - [concept] jeremysmai Page
-- [being built] Support Page
+- [partially] Support Page
 - [concept] Contact Page
 
 Test Test Test
