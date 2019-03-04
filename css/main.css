@@ -5,6 +5,7 @@
 @import url(solid.css);
 @import url(v4-shims.css);
 @import url(v4-shims.min.css);
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 @font-face {
   font-family: fontawesome;
@@ -13,7 +14,7 @@
 
 
 body,div,table{
-  font-family: roboto;
+  font-family: 'Roboto', sans-serif;
   color: white;
   padding-top: 10px;
   padding-bottom: 20px;
