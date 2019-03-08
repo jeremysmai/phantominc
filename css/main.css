@@ -30,15 +30,6 @@ h1 {
   text-align: center;
 }
 
-h2 {
-  font-family: 'Roboto', sans-serif;
-  text-align: justify;
-  color: white;
-  margin: auto;
-  margin-left: 75px;
-  margin-top: 50px;
-}
-
 div {
   font-family: 'Roboto', sans-serif;
   color: white;
@@ -54,6 +45,14 @@ div {
 
 }
 
+h2.post {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin: auto;
+    position: sticky;
+    font-size: 30px;
+}
+
 html {
   /* background: grey url("images/background.jpg"); */
   background: linear-gradient(gray, #383838, gray);
@@ -64,33 +63,27 @@ html {
 ul,li {
     float: inherit;
     display: inline-block;
-    list-style-type: square;
 }
 
 
 ul.p {
     float: inherit;
-    display: inline-block;
+    display: block;
     list-style-type: square;
-    margin: auto;
+    margin-left: auto;
 }
 
 li.p {
-    margin-left: 50px;
     margin-top: 5px;
     margin-bottom: 5px;
     display: block;
-    margin: auto;
-
 }
 
 li.d {
-    margin-left: 60px;
     margin-top: 10px;
     margin-bottom: 5px;
     font-style: italic;
     font-size: 10px;
-    margin: auto;
 }
 
 .menu {
