@@ -72,7 +72,7 @@ ul.p {
     float: inherit;
     display: inline-block;
     list-style-type: square;
-    width: 50%;
+    margin: auto;
 }
 
 li.p {
@@ -80,7 +80,8 @@ li.p {
     margin-top: 5px;
     margin-bottom: 5px;
     display: block;
-    width: 50%;
+    margin: auto;
+
 }
 
 li.d {
@@ -89,7 +90,7 @@ li.d {
     margin-bottom: 5px;
     font-style: italic;
     font-size: 10px;
-    width: 50%;
+    margin: auto;
 }
 
 .menu {
