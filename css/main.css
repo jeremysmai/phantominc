@@ -65,7 +65,14 @@ ul,li {
     float: inherit;
     display: inline-block;
     list-style-type: square;
-    font-style: oblique;
+}
+
+
+ul.p {
+    float: inherit;
+    display: inline-block;
+    list-style-type: square;
+    align-self: center;
 }
 
 li.p {
@@ -73,6 +80,7 @@ li.p {
     margin-top: 5px;
     margin-bottom: 5px;
     display: block;
+    align-self: auto;
 }
 
 li.d {
