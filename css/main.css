@@ -64,6 +64,7 @@ html{
 ul,li{
     float: inherit;
     display: inline-block;
+    text-align: inherit;
 }
 
 .menu{
