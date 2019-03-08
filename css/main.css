@@ -13,7 +13,7 @@
 }
 
 
-body,div,table{
+body,table{
   font-family: 'Roboto', sans-serif;
   color: white;
   padding-top: 10px;
@@ -21,6 +21,28 @@ body,div,table{
   padding-left: 15px;
   padding-right: 15px;
   margin-bottom: 15px;
+}
+
+h1,h2{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  margin: auto;
+  text-align: center;
+}
+
+div{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  margin: auto;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 15px;
+  width: 300px;
+  border: 2px dashed white;
+
 }
 
 html{
