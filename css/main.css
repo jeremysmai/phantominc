@@ -13,7 +13,7 @@
 }
 
 
-body,table{
+body,table {
   font-family: 'Roboto', sans-serif;
   color: white;
   padding-top: 10px;
@@ -23,14 +23,14 @@ body,table{
   margin-bottom: 15px;
 }
 
-h1{
+h1 {
   font-family: 'Roboto', sans-serif;
   color: white;
   margin: auto;
   text-align: center;
 }
 
-h2{
+h2 {
   font-family: 'Roboto', sans-serif;
   text-align: justify;
   color: white;
@@ -39,7 +39,7 @@ h2{
   margin-top: 50px;
 }
 
-div{
+div {
   font-family: 'Roboto', sans-serif;
   color: white;
   margin: auto;
@@ -54,20 +54,25 @@ div{
 
 }
 
-html{
+html {
   /* background: grey url("images/background.jpg"); */
   background: linear-gradient(gray, #383838, gray);
   background-position: center;
   background-attachment: fixed;
 }
 
-ul,li{
+ul,li {
     float: inherit;
     display: inline-block;
-    text-align: inherit;
+    list-style-type: square;
 }
 
-.menu{
+ul.p,li.p {
+    float: inherit;
+    display: block;
+    list-style-type: square;
+}
+.menu {
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
   border: none;
@@ -86,11 +91,11 @@ ul,li{
   opacity: 0.3;
 }
 
-.logo{
+.logo {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
-footer{
+footer {
   position: fixed;
   font-family: sans-serif;
   font-size: 12px;
