@@ -72,6 +72,7 @@ li.p {
     margin-left: 50px;
     margin-top: 5px;
     margin-bottom: 5px;
+    display: block;
 }
 
 li.d {
