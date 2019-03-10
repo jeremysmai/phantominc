@@ -70,15 +70,13 @@ ul,li {
 ul.po {
     display: block;
     list-style-type: square;
-    margin-left: auto;
-    vertical-align: middle;
+    float: center;
 }
 
 li.post {
     margin-top: 5px;
     margin-bottom: 5px;
     display: block;
-    vertical-align: middle;
 }
 
 li.d {
