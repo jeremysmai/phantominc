@@ -20,6 +20,10 @@ a:visited {
     color:darkgreen;
 }
 
+a:hover {
+  color:gray;
+}
+
 body,table {
   font-family: 'Roboto', sans-serif;
   color: white;
