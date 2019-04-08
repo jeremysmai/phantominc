@@ -12,6 +12,13 @@
   src: url(fonts/fa-regular-400.woff);
 }
 
+a:link {
+    color:lime;
+}
+
+a:visited {
+    color:darkgreen;
+}
 
 body,table {
   font-family: 'Roboto', sans-serif;

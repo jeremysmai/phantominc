@@ -1,5 +1,5 @@
 # Phantom Inc
-## The Official Phantom Inc. Repo
+### The Official Phantom Inc. Repo
 <img src="images/phantom_inc.JPG" width="200" height="200"></img>
 
 Website: [Phantom Inc](https://www.phantominc.net)
