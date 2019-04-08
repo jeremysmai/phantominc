@@ -73,7 +73,6 @@ html {
 }
 
 ul,li {
-  align-content: center;
     float: inherit;
     display: inline-block;
 }
