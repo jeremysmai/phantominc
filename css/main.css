@@ -112,14 +112,14 @@ li.d {
 }
 
 .menu {
-  font-size: 20px;
+  font-size: 18px;
   font-family: 'Roboto', sans-serif;
   border: none;
   border-radius: 2px;
   border-color: lime;
   color: white;
   background-color: #383838;
-  padding: 15px 15px;
+  padding: 10px 10px;
   margin: 2px 2px;
   text-align: center;
 }
