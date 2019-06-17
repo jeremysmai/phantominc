@@ -11,7 +11,7 @@ Website: [Phantom Inc](https://www.phantominc.net)
 - [beta] Downloads Page
 - [concept] jeremysmai Page
 - [partially] Support Page
-- [concept] Contact Page
+- [partially] Contact Page
 
 Test Test Test
 /    /    /
