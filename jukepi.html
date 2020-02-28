@@ -17,13 +17,13 @@
         text-align: center;
         padding-top: 10px;
      }
-      #jukechat {
+      #twitchchat {
         width: 100%;
         background-color: #6441A4;
         margin-top: 20px;
         float: left;
      }
-      #jukefeed {
+      #twitchfeed {
         width: 100%;
         background-color: #6441A4;
         margin-top: 20px;
@@ -33,13 +33,13 @@
   </head>
     <body>
       <h1>JUKE PI</h1>
-      <p>Feed & Chat from <a href="https://www.twitch.tv/jukeboxtv_">JUKEBOXTV_</a></p>
+      <p>Feed & Chat from <a href="https://www.twitch.tv/jukeboxem">JUKEBOXEM_</a></p>
       <p> <i> Works best without add ons enabled </i></p>
 
-    <button onclick="jukefeed()">hide/show jukefeed</button>
-    <div id="jukefeed">
+    <button onclick="twitchfeed()">hide/show twitchfeed</button>
+    <div id="twitchfeed">
      <iframe
-      src="https://player.twitch.tv/?channel=jukeboxtv_"
+      src="https://player.twitch.tv/?channel=jukeboxem"
       frameborder="0"
       allowfullscreen="true"
       scrolling="no"
@@ -48,9 +48,9 @@
      </iframe>
     </div>
 
-    <button onclick="jukechat()">hide/show jukechat</button>
-    <div id="jukechat">
-     <iframe src="https://www.twitch.tv/embed/jukeboxtv_/chat"
+    <button onclick="twitchchat()">hide/show twitchchat</button>
+    <div id="twitchchat">
+     <iframe src="https://www.twitch.tv/embed/jukeboxem/chat"
       frameborder="0"
       scrolling="no"
       height="500"
@@ -59,7 +59,7 @@
      </iframe>
     </div>
 
-    <button onclick="mixfeed()">hide/show jukechat</button>
+    <button onclick="mixfeed()">hide/show twitchchat</button>
       <div id="mixfeed">
         <iframe allowfullscreen="true"
         src="https://mixer.com/embed/player/JukeboxTV?disableLowLatency=1"
@@ -67,7 +67,7 @@
         height="349">
   </iframe>
 
-    <button onclick="mixchat()">hide/show jukechat</button>
+    <button onclick="mixchat()">hide/show twitchchat</button>
       <div id="mixchat">
         <iframe allowfullscreen="true"
         src="https://mixer.com/embed/chat/JukeboxTV"
@@ -76,16 +76,16 @@
   </iframe>
 
     <script>
-    function jukefeed() {
-      var x = document.getElementById("jukefeed");
+    function twitchfeed() {
+      var x = document.getElementById("twitchfeed");
       if (x.style.display === "none") {
         x.style.display = "block";
       } else {
         x.style.display = "none";
       }
     }
-     function jukechat() {
-      var x = document.getElementById("jukechat");
+     function twitchchat() {
+      var x = document.getElementById("twitchchat");
       if (x.style.display === "none") {
         x.style.display = "block";
       } else {
