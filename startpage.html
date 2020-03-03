@@ -22,7 +22,7 @@
 
     gtag('config', 'UA-122993902-1');
   </script>
-  <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+
 </head>
 
   <body>
@@ -43,13 +43,17 @@
     <p>
   <center>
     Here are some things for proof:
+  <br />
     <script type="application/javascript">
       function getIP(json) {
         document.write("Your public ip is: ", json.ip);
       }
     </script>
+    <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
   </center>
    </p>
+   <!-- Easter Egg, Silicon Valley Style-->
+   <center>Made with love from <i class="fab fa-hooli"></i></center>
   </body>
 
   <footer>
