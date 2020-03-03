@@ -36,7 +36,15 @@ body,table {
 
 h1 {
   font-family: 'Roboto', sans-serif;
-  font-size: 30;
+  font-size: 30px;
+  color: white;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
   color: white;
   margin: auto;
   text-align: center;
@@ -125,7 +133,7 @@ li.d {
   text-align: center;
 }
 .startmenu {
-  font-size: 30px;
+  font-size: 40px;
   font-family: 'Roboto', sans-serif;
   border: none;
   border-radius: 2px;
