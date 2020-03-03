@@ -123,6 +123,18 @@ li.d {
   margin: 2px 2px;
   text-align: center;
 }
+.startmenu {
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  border: none;
+  border-radius: 2px;
+  border-color: lime;
+  color: white;
+  background-color: #383838;
+  padding: 10px 10px;
+  margin: 2px 2px;
+  text-align: center;
+}
 .postsb {
   font-size: 12px;
   font-family: 'Roboto', sans-serif;
