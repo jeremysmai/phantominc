@@ -21,8 +21,8 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-122993902-1');
- </script>
-
+  </script>
+  <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
 </head>
 
   <body>
@@ -32,23 +32,22 @@
   <li><a href="https://www.phantominc.net" alt="secure_yo_self"><button class="startmenu"><i class="fab fa-fort-awesome"></i></button></a></li>
   <li><a href="https://www.youtube.com/"><button class="startmenu"><i class="fab fa-youtube"></i></button></a></li>
   <li><a href="https://github.com/jeremysmai"><button class="startmenu"><i class="fab fa-github"></i></button></a></li>
+  <li><a href="https://www.amazon.com"><button class="startmenu"><i class="fab fa-amazon"></i></button></a></li>
     </center>
   </p>
     <p>
-  <center>
+  <h1>
     Welcome, looks like you're online, that's good.
-  </center>
+  </h1>
   </p>
     <p>
   <center>
     Here are some things for proof:
     <script type="application/javascript">
       function getIP(json) {
-        document.write("My public IP address is: ", json.ip);
+        document.write("Your public ip is: ", json.ip);
       }
     </script>
-
-    <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
   </center>
    </p>
   </body>
