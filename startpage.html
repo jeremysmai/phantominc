@@ -56,12 +56,22 @@
   </center>
    </p>
    <!-- Speedtest using custom URL -->
-   <center><button onclick="speedtest()">speedtest?</button>
+   <center><button onclick="speedtest()"> Speedtest </button>
    <div id="speedtest">
      <iframe width="40%" height="600px" frameborder="0" src="https://phantominc.speedtestcustom.com">
      </iframe>
    </div>
    </center>
+   <script>
+   function twitchfeed() {
+     var x = document.getElementById("speedtest");
+     if (x.style.display === "none") {
+       x.style.display = "block";
+     } else {
+       x.style.display = "none";
+     }
+   }
+</script>
   </body>
 
   <footer>
