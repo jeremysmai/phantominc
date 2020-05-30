@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!-- PHANTOM INC 2019 __MUSICPLAYER TEST__
+        This site exists to run on small devices such as Raspberry Pi, while Jeremy Games okay? Cool.
+          | ''|
+  -->
+<html>
+  <title> Music Player Test </title>
+
+
+<head>
+ ...
+ <meta name="apple-music-developer-token" content="DEVELOPER-TOKEN">
+ <meta name="apple-music-app-name" content="My Cool Web App">
+ <meta name="apple-music-app-build" content="1978.4.1">
+ ...
+</head>
+
+
+<body>
+<script src="https://js-cdn.music.apple.com/musickit/v1/musickit.js"></script>
+<button data-apple-music-pause></button>
+<button data-apple-music-play></button>
+<button data-apple-music-skip-to-next-item></button>
+<button data-apple-music-skip-to-previous-item></button>
+<button data-apple-music-set-queue="pl.da219c87667b4018968b94c4be8bc793"></button>
+
+<!-- Disable autoplay -->
+<button data-apple-music-set-queue="1025210938" data-apple-music-autoplay="false"></button>
+</body>
+
+
+
+</html>
