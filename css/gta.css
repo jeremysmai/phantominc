@@ -27,6 +27,7 @@ a:hover {
 }
 
 body {
+  background-image: url("images/gta/01.jpg");
   font-family: 'Roboto', sans-serif;
   color: white;
   padding-top: 10px;
@@ -39,9 +40,10 @@ body {
 h1 {
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
-  color: white;
+  color: orange;
   margin: auto;
   text-align: center;
+  text-shadow: 1px 1px grey;
 }
 
 h3 {
@@ -67,19 +69,7 @@ notice {
 
 }
 
-div {
-  font-family: 'Roboto', sans-serif;
-  color: white;
-  margin: auto;
-  text-align: inherit;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin-bottom: 5px;
-  width: 150px;
 
-}
 h2.post {
     font-family: 'Roboto', sans-serif;
     color: white;
@@ -91,7 +81,7 @@ h2.post {
 
 html {
   /* background: url("images/background.jpg"); */
-  background: linear-gradient(gray, #383838, gray);
+  /*background: linear-gradient(gray, #383838, gray); */
   background-position: center;
   background-attachment: fixed;
 }
@@ -99,26 +89,6 @@ html {
 ul,li {
     float: inherit;
     display: inline;
-}
-
-
-ul.po {
-    display: block;
-    list-style-type: square;
-    float: center;
-}
-
-li.post {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    display: block;
-}
-
-li.d {
-    margin-top: 10px;
-    margin-bottom: 5px;
-    font-style: italic;
-    font-size: 10px;
 }
 
 .menu {
@@ -160,23 +130,23 @@ li.d {
 .postsb:hover {
   /* background-color: white; */
   color: grey;
-  opacity: 0.2;
+  opacity: 0.8;
 }
 
 .menu:hover {
   /* background-color: white; */
   color: grey;
-  opacity: 0.2;
+  opacity: 0.8;
 }
 
 .startmenu:hover {
   /* background-color: white; */
   color: grey;
-  opacity: 0.2;
+  opacity: 0.8;
 }
 
 .logo {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
 }
 
 footer {
