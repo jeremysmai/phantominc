@@ -55,6 +55,7 @@ h3 {
 
 navigation {
  display: inline-block;
+ align-content: center;
 }
 
 notice {
@@ -75,6 +76,7 @@ notice {
 div {
   font-family: 'Roboto', sans-serif;
   color: white;
+  display: inline-block;
 }
 
 .update {
@@ -93,9 +95,10 @@ div {
 }
 
 .menu:hover {
-  background-color: white;
-  color: #f2f2f2;
-  opacity: 0.2;
+  background-color: #383838;
+  color: #8bc34a;
+  opacity: 1.5;
+  border: 1px solid #8bc34a;
 }
 
 .logo {
@@ -107,13 +110,13 @@ div {
     font-family: 'Roboto', sans-serif;
     border: none;
     color: white;
-    position: relative;
+    position: fixed;
     z-index: 1;
 }
 
 .dropdown-content {
   display: none;
-  position: static;
+  position: relative;
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
   border: none;
@@ -124,6 +127,10 @@ div {
 .dropdown:hover .dropdown-content {
   display: block;
   position: inherit;
+}
+
+.post {
+  text-align: inherit;
 }
 
 footer {
