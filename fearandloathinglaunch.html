@@ -6,36 +6,37 @@
 <html>
   	<head>
   		<title>Fear And Loathing - GTA RP Now Launching...</title>
-  		<!--meta http-equiv="REFRESH" content="0"; url="fivem://connect/107.221.120.235:30120" / -->
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
-      <SCRIPT>
-        function LaunchFivem() {
-
-            var TheNewWin = window.open("fivem://connect/107.221.120.235:30120", 'FearAndLoading...', 'toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1');
-
-            TheNewWin.blur();
-            TheNewWin.close();
-
+  		<link rel="stylesheet" href="css/gta.css" />
+      <!-- Fontawesome API code goes here :D -->
+      <script src="https://kit.fontawesome.com/23b2a6f9a6.js" crossorigin="anonymous"></script>
+      <!-- Favicon -->
+         <link rel=icon href='images/phantomicon.png' sizes="16x16" type="image/png">
+       <!-- Mobile Site Fix BB -->
+          <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+       <!-- Scripts Below me BB -->
+        <script src="scripts/fivemlaunch.js"></script>
+        <style>
+            html{
+          background-image: url("images/gta/07.jpg");
+          background-repeat: no-repeat;
+          background-position: 80%;
+          background-attachment: fixed;
         }
-  </SCRIPT>
-      <style>
-      @import url('https://fonts.googleapis.com/css?family=Roboto');
-        body {
-          background-color: grey;
-          color: white;
-          font-family: 'Roboto', sans-serif;
-        }
-      </style>
+       </style>
       <center><img src='images/FearAndLoathing-alpha.png' /></center>
-       <button onclick="LaunchFivem()">Join Now!</button>
     </head>
 
     <body>
-  		<center><h1>~ Launching Five M... ~ <i class="fas fa-cog fa-spin" alt="Redirecting"></i></h1></center>
-  	</body>
+      <h2>
+      <div class="button">
+        <button onclick="LaunchFivem()" class="menu"><i class="fas fa-cog fa-spin" alt="Redirecting"></i> Join Now!</button>
+      </div>
+  		<center><h1>~ Click the button above to join... ~ </br></h1></center>
+    </h2>
+    </body>
 
   <footer>
-    <center><b> &copy; Phantom Inc. 2020 </b></center>
+    &copy; Phantom Inc. 2020 <i class='fas fa-yin-yang fa-pulse'></i> version: 1.0
   </footer>
 
 </html>

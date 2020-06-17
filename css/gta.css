@@ -1,4 +1,4 @@
-/* Phantom Inc CSS
+/* Phantom Inc CSS for GTA RP __FEAR_AND_LOATHING_
    2019 - JD _ v2 */
 @import url(fontawesome.css);
 @import url(all.css);
@@ -9,28 +9,22 @@
 @import url(v4-shims.min.css);
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-@font-face {
-  font-family: fontawesome;
-  src: url(fonts/fa-regular-400.woff);
-}
-
-a:link {
-    color:lime;
-}
-
-a:visited {
-    color:darkgreen;
-}
-
-a:hover {
-  color:gray;
+html {
+  background-image: url("images/gta/01.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  position: relative;
+  animation-duration: 45s;
+  animation-name: bgrotate;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
 }
 
 body {
-  background-image: url("images/gta/01.jpg");
   font-family: 'Roboto', sans-serif;
   color: white;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 15px;
   padding-right: 15px;
@@ -40,20 +34,19 @@ body {
 h1 {
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
-  color: orange;
+  color: #e6e6e6;
   margin: auto;
   text-align: center;
-  text-shadow: 1px 1px grey;
+  text-shadow: 2px 1px #b30000;
 }
 
-h3 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 15px;
-  color: orange;
+h2{
+  font-size: 30px;
+  color: #e6e6e6;
   margin: auto;
   text-align: center;
+  text-shadow: 2px 1px #b30000;
 }
-
 notice {
   font-family: 'Roboto', sans-serif;
   color: white;
@@ -66,24 +59,6 @@ notice {
   margin-top: 15px;
   width: 800px;
   border: 2px dashed white;
-
-}
-
-
-h2.post {
-    font-family: 'Roboto', sans-serif;
-    color: white;
-    margin: auto;
-    position: sticky;
-    font-size: 30px;
-    vertical-align: middle;
-}
-
-html {
-  /* background: url("images/background.jpg"); */
-  /*background: linear-gradient(gray, #383838, gray); */
-  background-position: center;
-  background-attachment: fixed;
 }
 
 ul,li {
@@ -97,6 +72,7 @@ ul,li {
   border: none;
   color: white;
   background-color: #383838;
+  background-blend-mode: luminosity;
   padding: 10px 10px;
   margin: 2px 2px;
   text-align: center;
@@ -134,7 +110,7 @@ ul,li {
 }
 
 .menu:hover {
-  /* background-color: white; */
+  background-color: white;
   color: grey;
   opacity: 0.8;
 }
@@ -151,8 +127,8 @@ ul,li {
 
 footer {
   position: fixed;
-  font-family: sans-serif;
-  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
   text-align: center;
   color: white;
   width: 100%;

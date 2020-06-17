@@ -1,5 +1,5 @@
 /* Phantom Inc CSS
-   2019 - JD _ v2 */
+   2019 - JD _ v2.2 */
 @import url(fontawesome.css);
 @import url(all.css);
 @import url(brands.css);
@@ -14,29 +14,29 @@
   src: url(fonts/fa-regular-400.woff);
 }
 
-a:link {
-    color:lime;
-}
-
-a:visited {
-    color:darkgreen;
-}
-
-a:hover {
-  color:gray;
+html {
+  /* background: url("images/background.jpg"); */
+  background: linear-gradient(gray, #383838, gray);
+  background-position: center;
+  background-attachment: fixed;
 }
 
 body {
   font-family: 'Roboto', sans-serif;
   color: white;
-  padding-top: 10px;
-  padding-bottom: 20px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-top: 10px 20px 15px 15px 15px;
   margin-bottom: 15px;
 }
 
 h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: white;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
   color: white;
@@ -50,6 +50,10 @@ h3 {
   color: orange;
   margin: auto;
   text-align: center;
+}
+
+navigation {
+ display: inline-block;
 }
 
 notice {
@@ -70,113 +74,55 @@ notice {
 div {
   font-family: 'Roboto', sans-serif;
   color: white;
-  margin: auto;
-  text-align: inherit;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin-bottom: 5px;
-  width: 150px;
-
-}
-h2.post {
-    font-family: 'Roboto', sans-serif;
-    color: white;
-    margin: auto;
-    position: sticky;
-    font-size: 30px;
-    vertical-align: middle;
 }
 
-html {
-  /* background: url("images/background.jpg"); */
-  background: linear-gradient(gray, #383838, gray);
-  background-position: center;
-  background-attachment: fixed;
-}
-
-ul,li {
-    float: inherit;
-    display: inline;
-}
-
-
-ul.po {
-    display: block;
-    list-style-type: square;
-    float: center;
-}
-
-li.post {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    display: block;
-}
-
-li.d {
-    margin-top: 10px;
-    margin-bottom: 5px;
-    font-style: italic;
-    font-size: 10px;
+.update {
+    list-style: inside;
 }
 
 .menu {
-  font-size: 18px;
+  font-size: 16px;
   font-family: 'Roboto', sans-serif;
-  border: none;
+  border: 1px solid white;
   color: white;
   background-color: #383838;
-  padding: 10px 10px;
-  margin: 2px 2px;
-  text-align: center;
-}
-.startmenu {
-  font-size: 35px;
-  font-family: 'Roboto', sans-serif;
-  border: none;
-  border-radius: 2px;
-  border-color: lime;
-  color: white;
-  background-color: #383838;
-  padding: 10px 10px;
-  margin: 2px 2px;
-  text-align: center;
-}
-.postsb {
-  font-size: 12px;
-  font-family: 'Roboto', sans-serif;
-  border: none;
-  border-radius: 2px;
-  border-color: lime;
-  color: white;
-  background-color: #383838;
-  padding: 5px 5px;
-  margin: 2px 2px;
-  text-align: center;
+  padding: 16px 32px;
+  margin: 4px 2px;
 
-}
-
-.postsb:hover {
-  /* background-color: white; */
-  color: grey;
-  opacity: 0.2;
 }
 
 .menu:hover {
-  /* background-color: white; */
-  color: grey;
-  opacity: 0.2;
-}
-
-.startmenu:hover {
-  /* background-color: white; */
-  color: grey;
+  background-color: white;
+  color: #f2f2f2;
   opacity: 0.2;
 }
 
 .logo {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.dropdown {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.dropdown-content {
+  display: none;
+  position: static;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  border: none;
+  color: white;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  position: inherit;
 }
 
 footer {
@@ -187,30 +133,5 @@ footer {
   color: white;
   width: 100%;
   left: 0;
-  bottom: 10px;
-}
-
-.dropdown {
-    font-size: 18px;
-    font-family: 'Roboto', sans-serif;
-    border: none;
-    color: white;
-    background-color: #383838;
-    display: inline;
-    position: relative;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #383838;
-  font-size: 18px;
-  font-family: 'Roboto', sans-serif;
-  border: none;
-  color: white;
-  z-index: 1;
-}
-
-.dropdown:hover .dropdown-content {
-  display: inline;
+  bottom: 12px;
 }
