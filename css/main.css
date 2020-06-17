@@ -78,6 +78,7 @@ div {
 
 .update {
     list-style: inside;
+    text-align: center;
 }
 
 .menu {
@@ -88,7 +89,6 @@ div {
   background-color: #383838;
   padding: 16px 32px;
   margin: 4px 2px;
-
 }
 
 .menu:hover {
