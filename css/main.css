@@ -82,6 +82,7 @@ div {
 .update {
     list-style: inside;
     text-align: center;
+    display: block;
 }
 
 .menu {
