@@ -1,5 +1,5 @@
 /* Phantom Inc CSS
-   2019 - JD _ v2.2 */
+   2019 - 2020 - JD _ v2.2 */
 @import url(fontawesome.css);
 @import url(all.css);
 @import url(brands.css);
@@ -117,7 +117,7 @@ div {
 
 .dropdown-content {
   display: none;
-  position: relative;
+  position: static;
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
   border: none;
@@ -127,7 +127,7 @@ div {
 
 .dropdown:hover .dropdown-content {
   display: block;
-  position: inherit;
+  position:  inherit;
 }
 
 .post {
