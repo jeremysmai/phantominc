@@ -47,6 +47,16 @@ h2{
   text-align: center;
   text-shadow: 2px 1px #b30000;
 }
+
+h3{
+  font-size: 15px;
+  font-style: italic;
+  color: #e6e6e6;
+  margin: auto;
+  text-align: center;
+  text-shadow: 2px 1px #b30000;
+}
+
 notice {
   font-family: 'Roboto', sans-serif;
   color: white;
