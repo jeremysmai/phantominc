@@ -1,5 +1,5 @@
 /* Phantom Inc CSS
-   2019 - 2020 - JD _ v2.2 */
+   2019 - 2020 - JD _ v2.3 */
 @import url(fontawesome.css);
 @import url(all.css);
 @import url(brands.css);
@@ -39,7 +39,7 @@ h1 {
 
 h2 {
   font-family: 'Roboto', sans-serif;
-  font-size: 30px;
+  font-size: 25px;
   color: white;
   margin: auto;
   text-align: center;
@@ -49,6 +49,15 @@ h3 {
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
   color: orange;
+  margin: auto;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  font-style: italic;
+  color: white;
   margin: auto;
   text-align: center;
 }
@@ -104,34 +113,6 @@ div {
 
 .logo {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-}
-
-.dropdown {
-    font-size: 18px;
-    font-family: 'Roboto', sans-serif;
-    border: none;
-    color: white;
-    position: fixed;
-    z-index: 1;
-}
-
-.dropdown-content {
-  display: none;
-  position: static;
-  font-size: 18px;
-  font-family: 'Roboto', sans-serif;
-  border: none;
-  color: white;
-  z-index: 1;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-  position:  inherit;
-}
-
-.post {
-  text-align: inherit;
 }
 
 footer {
