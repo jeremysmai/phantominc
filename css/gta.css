@@ -40,7 +40,7 @@ h1 {
   text-shadow: 2px 1px #b30000;
 }
 
-h2{
+h2 {
   font-size: 30px;
   color: #e6e6e6;
   margin: auto;
@@ -48,13 +48,24 @@ h2{
   text-shadow: 2px 1px #b30000;
 }
 
-h3{
+h3 {
   font-size: 15px;
   font-style: italic;
   color: #e6e6e6;
   margin: auto;
   text-align: center;
   text-shadow: 2px 1px #b30000;
+}
+
+h4 {
+  font-size: 15px;
+  font-style: italic;
+  color: #e6e6e6;
+  background-color: #383838;
+  padding: 2px 2px 2px 2px;
+  text-align: center;
+  text-shadow: 2px 1px #b30000;
+  width: 20%;
 }
 
 notice {
@@ -144,6 +155,11 @@ footer {
   width: 100%;
   left: 0;
   bottom: 10px;
+}
+
+table, tr {
+  border: 2px solid white;
+  background-color: #383838;
 }
 
 .dropdown {
