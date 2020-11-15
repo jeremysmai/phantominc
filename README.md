@@ -13,8 +13,6 @@ Website: [Phantom Inc](https://www.phantominc.net)
 - [partially] Support Page
 - [partially] Contact Page
 
-Test Test Test
-/    /    /
 [GITHUB Site:](https://jeremysmai.github.io/phantominc)
 </br>
 Phantom Inc. &copy; 2020 :cloud:
