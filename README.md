@@ -14,5 +14,7 @@ Website: [Phantom Inc](https://www.phantominc.net)
 * [partially] Contact Page
 
 [GITHUB Site](https://jeremysmai.github.io/phantominc)
+
 </br>
+
 Phantom Inc. &copy; 2020 :cloud:
