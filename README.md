@@ -17,4 +17,4 @@ Test Test Test
 /    /    /
 [GITHUB Site:](https://jeremysmai.github.io/phantominc)
 <br>
- :squirrel: Phantom Inc. &copy; 2020 :cloud:
+Phantom Inc. &copy; 2020 :cloud:
