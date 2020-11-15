@@ -6,13 +6,13 @@ Website: [Phantom Inc](https://www.phantominc.net)
 * Currently Being built from the ground up
 
 #### To Do
-- [Satisfied] Pick a color scheme CSS BB
-- [partially] Finish Index
-- [Satisfied] Downloads Page
-- [concept] jeremysmai Page
-- [partially] Support Page
-- [partially] Contact Page
+* [Satisfied] Pick a color scheme CSS BB
+* [partially] Finish Index
+* [Satisfied] Downloads Page
+* [concept] jeremysmai Page
+* [partially] Support Page
+* [partially] Contact Page
 
-[GITHUB Site:](https://jeremysmai.github.io/phantominc)
+[GITHUB Site](https://jeremysmai.github.io/phantominc)
 </br>
 Phantom Inc. &copy; 2020 :cloud:
