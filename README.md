@@ -16,5 +16,5 @@ Website: [Phantom Inc](https://www.phantominc.net)
 Test Test Test
 /    /    /
 [GITHUB Site:](https://jeremysmai.github.io/phantominc)
-<br>
+</br>
 Phantom Inc. &copy; 2020 :cloud:
