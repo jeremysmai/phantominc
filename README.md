@@ -11,13 +11,13 @@ Page | Status | -
 Pick a color scheme CSS BB | [Satisfied] | :white_check_mark:
 Finish Index | [Partially] | :ballot_box_with_check:
 Downloads Page | [Satisfied] | :white_check_mark:
-Media Page | [Concept] | :arrows_counterclockwise:
+Media Page | [Partially] | :ballot_box_with_check:
 Support Page | [Partially] | :ballot_box_with_check:
 Contact Page | [Partially] | :ballot_box_with_check:
 Network Page | [Concept] | :arrows_counterclockwise:
 
-[GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
-
+</br>
+[GITHUB.io Site](https://jeremysmai.github.io/phantominc) :test_tube:
 </br>
 
 :shipit: Phantom Inc. &copy; 2020 :rocket:
