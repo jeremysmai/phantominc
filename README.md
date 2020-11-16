@@ -5,7 +5,7 @@
 Website: [Phantom Inc.](https://www.phantominc.net)
 * Currently Being built from the ground up
 
-### To Do :sunrise_over_mountains:
+### To Do :memo:
 Page | Status | -
 -------- | -------- | --------
 Pick a color scheme CSS BB | [Satisfied] | :white_check_mark:
@@ -17,7 +17,7 @@ Contact Page | [Partially] | :ballot_box_with_check:
 Network Page | [Concept] | :arrows_counterclockwise:
 
 </br>
-[GITHUB.io Site](https://jeremysmai.github.io/phantominc) :test_tube:
+[GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
 </br>
 
 :shipit: Phantom Inc. &copy; 2020 :rocket:
