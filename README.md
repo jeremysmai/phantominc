@@ -16,7 +16,7 @@ Support Page | [Partially] | :ballot_box_with_check:
 Contact Page | [Partially] | :ballot_box_with_check:
 Network Page | [Concept] | :arrows_counterclockwise:
 
-</br>
+
 [GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
 </br>
 
