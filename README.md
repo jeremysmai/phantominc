@@ -6,8 +6,8 @@ Website: [Phantom Inc.](https://www.phantominc.net)
 * Currently Being built from the ground up
 
 ### To Do :sunrise_over_mountains:
-Page | Status
--------- | --------
+Page | Status | 
+-------- | -------- | --------
 Pick a color scheme CSS BB |  [Satisfied]  | :white_check_mark: |
 Finish Index |  [Partially]  | :ballot_box_with_check: |
 Downloads Page |  [Satisfied]  | :white_check_mark: |
