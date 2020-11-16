@@ -1,5 +1,5 @@
 # Phantom Inc.
-#### The Official Phantom Inc. Repo :ghost:
+#### The Official Phantom Inc. Repo :pager:
 <img src="images/phantom_inc.JPG" width="250" height="250"></img>
 
 Website: [Phantom Inc.](https://www.phantominc.net)
@@ -16,7 +16,7 @@ Support Page | [Partially] | :ballot_box_with_check:
 Contact Page | [Partially] | :ballot_box_with_check:
 Network Page | [Concept] | :arrows_counterclockwise:
 
-[GITHUB Site](https://jeremysmai.github.io/phantominc)
+[GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
 
 </br>
 
