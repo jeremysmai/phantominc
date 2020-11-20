@@ -15,7 +15,9 @@ Media Page | [Partially] | :ballot_box_with_check:
 Support Page | [Partially] | :ballot_box_with_check:
 Contact Page | [Partially] | :ballot_box_with_check:
 Network Page | [Concept] | :arrows_counterclockwise:
+GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 
+#### Will eventually split off GTARPRP page into it's own Repo with packages for build!
 
 [GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
 </br>
