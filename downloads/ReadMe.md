@@ -7,6 +7,8 @@
 :hash: | [\.bash_profile\.zip](https://jeremysmai.github.io/phantominc/downloads/bash_profile.zip) | 0.1 | Terminal profile for use on Mac OS X
 :new: | [\.bashrc\.zip](https://jeremysmai.github.io/phantominc/downloads/bashrc.zip) | 0.2 | Terminal profile for Linux use, mostly Pi
 
+##### :white_check_mark: Feel free to look through the software before running! be safe!
+
 #### Here's whats to come:
 - [ ] Script Suite (More Details Soon)
 - [ ] Streamer OS [Bots...] (Eventually)
