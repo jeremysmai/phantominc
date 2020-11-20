@@ -1,5 +1,5 @@
 # Downloads :open_file_folder:
-#### Download some of my software Using the Links below, files also featured on the Website.
+#### Here you can download some of my software using the links below, files are also featured on the [Website\.](https://www.phantominc.net/downloads.html)
 
  ~ | Filename | Version | Description
 ---------------|---------------|---------------|---------------
@@ -7,7 +7,7 @@
 :hash: | [\.bash_profile\.zip](https://jeremysmai.github.io/phantominc/downloads/bash_profile.zip) | 0.1 | Terminal profile for use on Mac OS X
 :new: | [\.bashrc\.zip](https://jeremysmai.github.io/phantominc/downloads/bashrc.zip) | 0.2 | Terminal profile for Linux use, mostly Pi
 
-##### :white_check_mark: Feel free to look through the software before running! be safe!
+##### :warning: Feel free to look through the software before running! Be safe! :warning:
 
 #### Here's whats to come:
 - [ ] Script Suite (More Details Soon)
@@ -15,6 +15,6 @@
 - [ ] Favor App (Possibility)
 - [x] Shell Scripts (using bash)
 
-##### More to come.
+##### More to come!
 
 ###### |''| &copy; 2020
