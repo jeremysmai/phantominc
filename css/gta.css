@@ -1,12 +1,6 @@
 /* Phantom Inc CSS for GTA RP __FEAR_AND_LOATHING_
    2019 - JD _ v2 */
-@import url(fontawesome.css);
-@import url(all.css);
-@import url(brands.css);
-@import url(regular.css);
-@import url(solid.css);
-@import url(v4-shims.css);
-@import url(v4-shims.min.css);
+
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 html {

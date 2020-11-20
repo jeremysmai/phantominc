@@ -1,17 +1,11 @@
 /* Phantom Inc CSS
    2019 - 2020 - JD _ v2.3 */
-/*@import url(fontawesome.css);
-@import url(all.css);
-@import url(brands.css);
-@import url(regular.css);
-@import url(solid.css);
-@import url(v4-shims.css);
-@import url(v4-shims.min.css);*/
+
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 @font-face {
   font-family: fontawesome;
-  src: url(fonts/fa-regular-400.woff);
+  src: url(fonts/fa-regular-400.svg);
 }
 
 html {
