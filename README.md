@@ -22,4 +22,4 @@ GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 [GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
 </br>
 
-:shipit: Phantom Inc. &copy; 2020 :rocket:
+version 1.0 :shipit: Phantom Inc. &copy; 2020 :rocket:
