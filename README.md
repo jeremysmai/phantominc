@@ -23,4 +23,5 @@ GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 </br>
 
 version 1.0 :shipit: Phantom Inc. &copy; 2020
+</br>
 <img src="images/phanicon-32x32.svg" />
