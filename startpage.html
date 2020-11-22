@@ -14,28 +14,21 @@
     <!-- Favicon -->
       <link rel="icon" href="images/phanicon32.png" sizes="32x32" type="image/png">
     <!-- Mobile Site Fix BB -->
-      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122993902-1"></script>
- <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-122993902-1');
-  </script>
-  <!--Quick little hack for speedtest -->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Quick little hack for speedtest -->
    <style>
    .st {
+     border: 1px solid #8bc34a;
      display: none;
      width: auto;
    }
 
    .ip {
+     border: 1px solid #8bc34a;
      display: none;
-     width: auto;
      color: tomato;
      font-weight: bold;
+     width: 30%;
    }
    </style>
 </head>
@@ -61,25 +54,14 @@
   Here are some things for proof:
   <br />
   <!-- IP checking script -->
-      <button class="menu" onclick="ipaddress()"><i class="fas fa-exclamation-triangle"></i> Reveal IP Address </button>
-      <div id="ipaddress" class="ip">
-        <script>
-        function ipaddress() {
-          var x = document.getElementById("ipaddress");
-          if (x.style.display === "none") {
-            x.style.display = "block";
-          }
-          else {
-            x.style.display = "none";
-          }
-        }
-       </script>
-      <script type="application/javascript">
+  <button class="menu" onclick="ipaddress()"><i class="fas fa-exclamation-triangle"></i> Reveal IP Address </button>
+    <div id="ipaddress" class="ip">
+    <script type="application/javascript">
       function getIP(json) {
         document.write("Your public IP: ", json.ip);
       }
     </script>
-    <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+     <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
   </div>
   </center>
 
@@ -87,16 +69,6 @@
    <center><button class="menu" onclick="speedtest()"><i class="fas fa-tachometer-alt"></i> Speedtest </button>
    <div id="speedtest" class="st">
      <iframe width="100%" height="615px" frameborder="0" src="https://phantominc.speedtestcustom.com"></iframe>
-   <script>
-   function speedtest() {
-     var x = document.getElementById("speedtest");
-     if (x.style.display === "none") {
-       x.style.display = "block";
-     } else {
-       x.style.display = "none";
-     }
-   }
-  </script>
   </div>
  </center>
  <br>
@@ -104,6 +76,27 @@
  <center><img src="images/phanicon-32x32.svg" /></center>
  <br>
  <br>
+ <script>
+ function ipaddress() {
+   var x = document.getElementById("ipaddress");
+   if (x.style.display === "none") {
+     x.style.display = "block";
+   }
+   else {
+     x.style.display = "none";
+   }
+ }
+</script>
+ <script>
+ function speedtest() {
+   var x = document.getElementById("speedtest");
+   if (x.style.display === "none") {
+     x.style.display = "block";
+   } else {
+     x.style.display = "none";
+   }
+ }
+</script>
   </body>
 
   <footer>
