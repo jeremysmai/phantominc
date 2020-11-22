@@ -12,7 +12,7 @@
     <!-- Fontawesome API code goes here :D -->
     <script src="https://kit.fontawesome.com/23b2a6f9a6.js" crossorigin="anonymous"></script>
     <!-- Favicon -->
-      <link rel=icon href=images/phantomicon.png sizes="16x16" type="image/png">
+      <link rel="icon" href="images/phanicon32.png" sizes="32x32" type="image/png">
     <!-- Mobile Site Fix BB -->
       <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -27,8 +27,15 @@
   <!--Quick little hack for speedtest -->
    <style>
    .st {
-     display:none;
+     display: none;
      width: auto;
+   }
+
+   .ip {
+     display: none;
+     width: auto;
+     color: tomato;
+     font-weight: bold;
    }
    </style>
 </head>
@@ -54,18 +61,30 @@
   Here are some things for proof:
   <br />
   <!-- IP checking script -->
-    <h3>
+      <button class="menu" onclick="ipaddress()"><i class="fas fa-exclamation-triangle"></i> Reveal IP Address </button>
+      <div id="ipaddress" class="ip">
+        <script>
+        function ipaddress() {
+          var x = document.getElementById("ipaddress");
+          if (x.style.display === "none") {
+            x.style.display = "block";
+          }
+          else {
+            x.style.display = "none";
+          }
+        }
+       </script>
       <script type="application/javascript">
       function getIP(json) {
         document.write("Your public IP: ", json.ip);
       }
     </script>
     <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
-   </h3>
+  </div>
   </center>
-   </p>
+
    <!-- Speedtest using custom URL -->
-   <center><button onclick="speedtest()"> Speedtest </button>
+   <center><button class="menu" onclick="speedtest()"><i class="fas fa-tachometer-alt"></i> Speedtest </button>
    <div id="speedtest" class="st">
      <iframe width="100%" height="615px" frameborder="0" src="https://phantominc.speedtestcustom.com"></iframe>
    <script>
@@ -82,9 +101,12 @@
  </center>
  <br>
  <br>
+ <center><img src="images/phanicon-32x32.svg" /></center>
+ <br>
+ <br>
   </body>
 
   <footer>
-    <center><b> &copy; Phantom Inc. 2020 <i class="fas fa-user-astronaut"></i> version: .07 </b></center>
+    <center><b> &copy; Phantom Inc. 2020 <i class="fas fa-user-astronaut"></i> version: 1.0 </b></center>
   </footer>
 </html>
