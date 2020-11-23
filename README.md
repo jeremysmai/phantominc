@@ -3,7 +3,7 @@
 <img src="images/phantom_inc.JPG" width="250" height="250" />
 
 Website: [Phantom Inc.](https://www.phantominc.net)
-* Currently Being built from the ground up
+- Currently Being built from the ground up
 
 ### To Do :memo:
 Page | Status | -
