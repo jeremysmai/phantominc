@@ -22,6 +22,6 @@ GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 [GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
 </br>
 
-version 1.0: &copy; Phantom Inc. 2020
+<img src-"images/phanicon-bw.svg"/> version 1.0: &copy; Phantom Inc. 2020
 </br>
 <img src="images/phanicon-32x32.svg" />

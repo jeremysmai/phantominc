@@ -2,15 +2,25 @@
    2019 - JD _ v2 */
 
 /*  Import Fonts from Google!*/
-/*@import url('https://fonts.googleapis.com/css?family=Roboto');*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
 
+a:link {
+  color: #FF8C00;
+}
+
+a:visited {
+  color: #FF8C00;
+}
+
+a:hover {
+  color: #ADFF2F;
+}
+
 html {
-  background-image: url("images/gta/01.jpg");
+  background-image: url("images/gta/bg-rotate/01.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  position: relative;
   animation-duration: 45s;
   animation-name: bgrotate;
   animation-iteration-count: infinite;
@@ -25,6 +35,7 @@ body {
   padding-left: 15px;
   padding-right: 15px;
   margin-bottom: 15px;
+  text-align: center;
 }
 
 h1 {
@@ -64,6 +75,11 @@ h4 {
   width: 60%;
 }
 
+navigation {
+  display: inline-block;
+  align-content: center;
+}
+
 notice {
   font-family: 'Roboto Condensed', sans-serif;
   color: white;
@@ -78,6 +94,7 @@ notice {
   border: 2px dashed white;
 }
 
+
 ul,li {
     float: inherit;
     display: inline;
@@ -89,10 +106,8 @@ ul,li {
   border: 1px solid gray;
   color: white;
   background-color: #383838;
-  background-blend-mode: luminosity;
   padding: 10px 10px;
   margin: 2px 2px;
-  text-align: center;
 }
 
 .menu:hover {
@@ -103,6 +118,7 @@ ul,li {
 }
 
 .logo {
+  max-width: 100%;
   box-shadow: 0 8px 8px 0 rgba(0,0,0,0.5);
 }
 
@@ -111,7 +127,8 @@ footer {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 15px;
   text-align: center;
-  color: white;
+  text-shadow: 4px 4px 4px black;
+  color: #FF8C00;
   width: 100%;
   left: 0;
   bottom: 10px;
@@ -120,6 +137,7 @@ footer {
 table, tr {
   border: 2px solid white;
   background-color: #383838;
+  max-width: 100%;
 }
 
 .dropdown {
