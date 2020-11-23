@@ -5,11 +5,6 @@
 /*@import url('https://fonts.googleapis.com/css?family=Roboto');*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
 
-@font-face {
-  font-family: GTA;
-  src: url(fonts/pricedown_bl.ttf);
-}
-
 html {
   background-image: url("images/gta/01.jpg");
   background-repeat: no-repeat;
