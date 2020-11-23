@@ -1,4 +1,4 @@
-## Phantom Inc.
+## <img src="images/phanicon-32x32.svg" /> Phantom Inc.
 ### The Official Phantom Inc. Repo :pager:
 <img src="images/phantom_inc.JPG" width="250" height="250" />
 
@@ -23,4 +23,3 @@ GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 </br>
 
 <img src="images/phanicon-bw.svg"/> version 1.0: &copy; Phantom Inc. 2020
-<img src="images/phanicon-32x32.svg" />
