@@ -1,8 +1,8 @@
-## <img src="images/phanicon-32x32.svg" /> Phantom Inc.
-### The Official Phantom Inc. Repo :pager:
-<img src="images/phantom_inc.JPG" width="250" height="250" />
+#  Phantom Inc. <img src="images/phanicon-32x32.svg" />
+### The Official Phantom Inc. Repo
+<img src="images/phantom_inc.JPG" width="300" height="300" />
 
-Website: [Phantom Inc.](https://www.phantominc.net)
+ Website: [Phantom Inc.](https://www.phantominc.net)
 - Currently Being built from the ground up
 
 ### To Do :memo:
