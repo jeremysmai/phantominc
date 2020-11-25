@@ -15,6 +15,7 @@ Media Page | [Partially] | :ballot_box_with_check:
 Support Page | [Partially] | :ballot_box_with_check:
 Contact Page | [Partially] | :ballot_box_with_check:
 Network Page | [Concept] | :arrows_counterclockwise:
+Startpage | [Satisfied] | :white_check_mark:
 GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 
 #### Will eventually split off GTARP RP page into it's own Repo with packages for build!
