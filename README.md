@@ -8,13 +8,13 @@
 ### To Do :memo:
 Page | Status | -
 -------- | -------- | --------
-Pick a color scheme CSS BB | [Satisfied] | :white_check_mark:
-Finish Index | [Partially] | :ballot_box_with_check:
-Downloads Page | [Satisfied] | :white_check_mark:
-Media Page | [Partially] | :ballot_box_with_check:
-Support Page | [Partially] | :ballot_box_with_check:
-Contact Page | [Partially] | :ballot_box_with_check:
-Network Page | [Concept] | :arrows_counterclockwise:
+CSS | [Satisfied] | :white_check_mark:
+Index | [Partially] | :ballot_box_with_check:
+Downloads | [Satisfied] | :white_check_mark:
+Media | [Partially] | :ballot_box_with_check:
+Support | [Partially] | :ballot_box_with_check:
+Contact | [Partially] | :ballot_box_with_check:
+Network | [Concept] | :arrows_counterclockwise:
 Startpage | [Satisfied] | :white_check_mark:
 GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 
