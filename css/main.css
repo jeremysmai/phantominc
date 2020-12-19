@@ -197,6 +197,7 @@ footer {
   position: fixed;
   font-family: sans-serif;
   font-size: 12px;
+  font-weight: bold;
   text-align: center;
   color: white;
   width: 100%;
