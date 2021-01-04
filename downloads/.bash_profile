@@ -13,7 +13,7 @@ echo -e "\033[01;30m	      //////// /// /// /////// ///  /// ////// /////// /// 
 echo -e "             ///  /// /// /// /// /// //// ///  ///   /// /// //// /////  "
 echo -e "            //////// /////// /////// /// ////  ///   /// /// /// // ///   "
 echo -e "           ///      /// /// /// /// ///  ///  ///   /////// ///    ///    "
-echo -e "          ///  \033[00m  \033[5m \033[3m \033[7m you have entered the matrix...\033[m      \033[2m \033[3m \033[01;30m Inc. 2020 \033[m"
+echo -e "          ///  \033[00m  \033[5m \033[3m \033[7m you have entered the matrix...\033[m      \033[2m \033[3m \033[01;30m Inc. 2021 \033[m"
 echo -e "\033[8m Hidden line :D enjoying my profile so far? \033[m"
 
 # Command that repeats before each line starts
