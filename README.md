@@ -11,7 +11,7 @@ Page | Status | -
 CSS | [Satisfied] | :white_check_mark:
 Index | [Partially] | :ballot_box_with_check:
 Downloads | [Satisfied] | :white_check_mark:
-Media | [Partially] | :ballot_box_with_check:
+Media | [Satisfied] | :white_check_mark:
 Support | [Partially] | :ballot_box_with_check:
 Contact | [Partially] | :ballot_box_with_check:
 Network | [Concept] | :arrows_counterclockwise:
@@ -23,4 +23,4 @@ GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 [GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
 </br>
 
-<img src="images/phanicon-bw.svg"/> version 1.0: &copy; Phantom Inc. 2021
+<img src="images/phanicon-bw.svg"/> version 1.1: &copy; Phantom Inc. 2021
