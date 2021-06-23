@@ -10,6 +10,7 @@ Page | Status | -
 -------- | -------- | --------
 CSS | [Satisfied] | :white_check_mark:
 Index | [Partially] | :ballot_box_with_check:
+Shop | [Partially] | :ballot_box_with_check:
 Downloads | [Satisfied] | :white_check_mark:
 Media | [Satisfied] | :white_check_mark:
 Support | [Partially] | :ballot_box_with_check:
