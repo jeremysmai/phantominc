@@ -5,7 +5,7 @@
 
 html {
   /* background: url("images/background.jpg"); */
-  background: linear-gradient(gray, #383838, gray);
+  background: linear-gradient(#6B8E23,#708090,#383838);
   background-position: center;
   background-attachment: fixed;
 }
