@@ -2,8 +2,8 @@
 ### The Official Phantom Inc. Repo
 <img src="images/phantom_inc.JPG" width="300" height="300" />
 
- Website: [Phantom Inc.](https://www.phantominc.net)
-- Currently Being built from the ground up
+ Website Link: [Phantom Inc.](https://www.phantominc.net)
+- Currently Being built from the ground up using HTML5 CSS3 and some javascript.
 
 ### To Do :memo:
 Page | Status | -
@@ -23,5 +23,30 @@ GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 
 [GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
 </br>
+
+### Projects :open_file_folder:
+
+#### Websites
+[Personalized Palates](https://www.personalizedpalates.com)
+- A unique service offered by a family member, site for public
+[VivThaGoat] (Soon)
+- Upcoming project soon to be released onto the world, watch out
+
+#### Software -
+[Mac Bundle](https://github.com/jeremysmai/JDsMacBundle)
+- List of Must have Mac Apps, helpful with a fresh install.
+[Linux Bundle](https://github.com/jeremysmai/JDsLinuxBundle)
+- List of must have linux applications and utilities.
+[QR-Filament] (Soon)
+- QR-Filament resource for quick information and reordering process
+
+#### Stream Repos
+[TouchedCloud4](https://github.com/jeremysmai/TouchedCloud4)
+- Current and past repo for stream elements used in TouchedCloud's streams
+[thepolecatlounge](https://github.com/jeremysmai/thepolecatlounge)
+- resources used for the polecat lounge streams
+</br>
+
+
 
 <img src="images/phanicon-bw.svg"/> version 1.1: &copy; Phantom Inc. 2021
