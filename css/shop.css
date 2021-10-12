@@ -2,6 +2,7 @@
    2019 - 2020 - JD _ v2.4 */
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
 
 html {
   /* background: url("images/background.jpg"); */
@@ -23,7 +24,7 @@ a:hover {
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
   text-align: center;
   color: white;
   padding-top: 80;
@@ -32,7 +33,7 @@ body {
 }
 
 h1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
   font-size: 30px;
   color: white;
   margin: auto;
@@ -40,7 +41,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
   font-size: 20px;
   color: white;
   margin: auto;
@@ -48,7 +49,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
   font-size: 15px;
   color: orange;
   margin: auto;
@@ -56,7 +57,7 @@ h3 {
 }
 
 h4 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
   font-size: 15px;
   font-style: italic;
   color: white;
@@ -65,7 +66,7 @@ h4 {
 }
 
 h5 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
   font-size: 18px;
   font-style: bold;
   color: white;
@@ -87,7 +88,7 @@ navigation {
 }
 
 notice {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
   color: white;
   text-align: center;
   padding-top: 15px;
@@ -102,14 +103,14 @@ notice {
 }
 
 div {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
   color: white;
   display: inline-block;
   align-content: center;
 }
 
   .product {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans Mono', monospace;
     color: white;
     display: inline-block;
     border-radius: 15px;
@@ -118,7 +119,7 @@ div {
 }
 
 table {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
   border-collapse: collapse;
   width: 50%;
 }
@@ -138,7 +139,7 @@ tr:nth-child(even) {
   display: inline-block;
   border-bottom: 1px solid blue;
   font-size: 16px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
   border: 1px solid white;
   color: white;
   background-color: #383838;
@@ -184,7 +185,7 @@ tr:nth-child(even) {
 
 .menu {
   font-size: 16px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
   border: 1px solid white;
   color: white;
   background-color: #383838;
