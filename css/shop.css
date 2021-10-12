@@ -5,7 +5,7 @@
 
 html {
   /* background: url("images/background.jpg"); */
-  background: linear-gradient(gray, #383838, gray);
+  background: linear-gradient(#6B8E23,#708090,#383838);
   background-position: center;
   background-attachment: fixed;
 }
@@ -26,8 +26,9 @@ body {
   font-family: 'Roboto', sans-serif;
   text-align: center;
   color: white;
-  padding-top: 10px 20px 15px 15px 15px;
+  padding-top: 80;
   margin-bottom: 15px;
+  padding-bottom: 80px;
 }
 
 h1 {
