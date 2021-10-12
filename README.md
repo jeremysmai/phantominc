@@ -28,13 +28,13 @@ GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 
 #### Websites
 [Personalized Palates](https://www.personalizedpalates.com) - A unique service offered by a family member, site for public
-[VivThaGoat] (Soon) - Upcoming project soon to be released onto the world, watch out
+[VivTheGoat](https://github.com/jeremysmai/Vivthegoat) - Upcoming project soon to be released onto the world, watch out
 
 #### Software
 [Mac Bundle](https://github.com/jeremysmai/JDsMacBundle) - List of Must have Mac Apps, helpful with a fresh install.
 
 [Linux Bundle](https://github.com/jeremysmai/JDsLinuxBundle) - List of must have linux applications and utilities.
-[QR-Filament] (Soon) - QR-Filament resource for quick information and reordering process
+[QR-Filament](https://github.com/jeremysmai/QR-Filament) - QR-Filament resource for quick information and reordering process
 
 #### Stream Repos
 [TouchedCloud4](https://github.com/jeremysmai/TouchedCloud4) - Current and past repo for stream elements used in TouchedCloud's streams

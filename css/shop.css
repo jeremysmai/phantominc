@@ -184,7 +184,7 @@ tr:nth-child(even) {
 }
 
 .menu {
-  font-size: 16px;
+  font-size: 12px;
   font-family: 'Noto Sans Mono', monospace;
   border: 1px solid white;
   color: white;
@@ -202,6 +202,7 @@ tr:nth-child(even) {
 
 .logo {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  margin: 15px;
 }
 
 footer {
