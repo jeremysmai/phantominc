@@ -34,15 +34,16 @@ body {
 
 h1 {
   font-family: 'Noto Sans Mono', monospace;
-  font-size: 30px;
+  font-size: 40px;
   color: white;
   margin: auto;
   text-align: center;
+  text-decoration: underline;
 }
 
 h2 {
   font-family: 'Noto Sans Mono', monospace;
-  font-size: 20px;
+  font-size: 18px;
   color: white;
   margin: auto;
   text-align: center;
@@ -51,14 +52,14 @@ h2 {
 h3 {
   font-family: 'Noto Sans Mono', monospace;
   font-size: 15px;
-  color: orange;
+  color: lime;
   margin: auto;
   text-align: center;
 }
 
 h4 {
   font-family: 'Noto Sans Mono', monospace;
-  font-size: 15px;
+  font-size: 14px;
   font-style: italic;
   color: white;
   margin: auto;
@@ -67,7 +68,7 @@ h4 {
 
 h5 {
   font-family: 'Noto Sans Mono', monospace;
-  font-size: 18px;
+  font-size: 12px;
   font-style: bold;
   color: white;
   margin: auto;
@@ -108,6 +109,11 @@ div {
   display: inline-block;
   align-content: center;
 }
+
+  .price{
+    font-family: 'Noto Sans Mono', monospace;
+    color: lime;
+  }
 
   .product {
     font-family: 'Noto Sans Mono', monospace;

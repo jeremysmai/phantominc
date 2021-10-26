@@ -8,16 +8,16 @@
 ### To Do :memo:
 Page | Status | -
 -------- | -------- | --------
+Index | [Satisfied] | :white_check_mark:
 CSS | [Satisfied] | :white_check_mark:
-Index | [Partially] | :ballot_box_with_check:
-Shop | [Partially] | :ballot_box_with_check:
+Startpage | [Satisfied] | :white_check_mark:
 Downloads | [Satisfied] | :white_check_mark:
 Media | [Satisfied] | :white_check_mark:
+Shop | [Partially] | :ballot_box_with_check:
 Support | [Partially] | :ballot_box_with_check:
 Contact | [Partially] | :ballot_box_with_check:
-Network | [Concept] | :arrows_counterclockwise:
-Startpage | [Satisfied] | :white_check_mark:
 GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
+Network | [Concept] | :arrows_counterclockwise:
 
 #### Will eventually split off GTARP RP page into it's own Repo with packages for build!
 
@@ -28,12 +28,14 @@ GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 
 #### Websites
 [Personalized Palates](https://www.personalizedpalates.com) - A unique service offered by a family member, site for public
+
 [VivTheGoat](https://github.com/jeremysmai/Vivthegoat) - Upcoming project soon to be released onto the world, watch out
 
 #### Software
 [Mac Bundle](https://github.com/jeremysmai/JDsMacBundle) - List of Must have Mac Apps, helpful with a fresh install.
 
 [Linux Bundle](https://github.com/jeremysmai/JDsLinuxBundle) - List of must have linux applications and utilities.
+
 [QR-Filament](https://github.com/jeremysmai/QR-Filament) - QR-Filament resource for quick information and reordering process
 
 #### Stream Repos
@@ -44,4 +46,4 @@ GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 
 
 
-<img src="images/phanicon-bw.svg"/> version 1.1: &copy; Phantom Inc. 2021
+<img src="images/phanicon-bw.svg"/> version 1.2: &copy; Phantom Inc. 2021
