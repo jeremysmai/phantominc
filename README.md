@@ -5,7 +5,7 @@
  Website Link: [Phantom Inc.](https://www.phantominc.net)
 - Currently Being built from the ground up using HTML5 CSS3 and some javascript.
 
-### To Do :memo:
+## To Do :memo:
 Page | Status | -
 -------- | -------- | --------
 Index | [Satisfied] | :white_check_mark:
@@ -19,12 +19,14 @@ Contact | [Partially] | :ballot_box_with_check:
 GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 Network | [Concept] | :arrows_counterclockwise:
 
-#### Will eventually split off GTARP RP page into it's own Repo with packages for build!
-
 [GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
+
+- Will eventually split off GTARP RP page into it's own Repo with packages for build!
+
+
 </br>
 
-### Projects :open_file_folder:
+## Projects :open_file_folder:
 
 #### Websites
 [Personalized Palates](https://www.personalizedpalates.com) - A unique service offered by a family member, site for public
