@@ -31,9 +31,13 @@ Network | [Concept] | :arrows_counterclockwise:
 #### Websites
 [Personalized Palates](https://www.personalizedpalates.com) - A unique service offered by a family member, site for public
 
+[JNM Consulting](https://jnmconsulting.org/) - A joint venture into software and hardware development, and automation
+
 [VivTheGoat](https://github.com/jeremysmai/Vivthegoat) - Upcoming project soon to be released onto the world, watch out
 
 #### Software
+[Soft Bundle](https://github.com/jeremysmai/JDsSoftBundle) - A complete list of all recommended software for all three major platforms.
+
 [Mac Bundle](https://github.com/jeremysmai/JDsMacBundle) - List of Must have Mac Apps, helpful with a fresh install.
 
 [Linux Bundle](https://github.com/jeremysmai/JDsLinuxBundle) - List of must have linux applications and utilities.
@@ -48,4 +52,4 @@ Network | [Concept] | :arrows_counterclockwise:
 
 
 
-<img src="images/phanicon-bw.svg"/> version 1.2: &copy; Phantom Inc. 2021
+<img src="images/phanicon-bw.svg"/> version 1.2 &copy; Phantom Inc. 2021
