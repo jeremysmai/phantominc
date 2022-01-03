@@ -52,4 +52,4 @@ Network | [Concept] | :arrows_counterclockwise:
 
 
 
-<img src="images/phanicon-bw.svg"/> version 1.2 &copy; Phantom Inc. 2021
+<img src="images/phanicon-bw.svg"/> version 1.2 &copy; Phantom Inc. 2022
