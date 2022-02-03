@@ -1,10 +1,10 @@
 #  Phantom Inc. <img src="images/phanicon-32x32.svg" />
 ### The Official Phantom Inc. Repo
+<p align="center">
 <img src="images/phantom_inc.JPG" width="300" height="300" />
-
  Website Link: [Phantom Inc.](https://www.phantominc.net)
-- Currently Being built from the ground up using HTML5 CSS3 and some javascript.
-
+Currently Being built from the ground up using HTML5 CSS3 and some javascript.
+</p>
 ## To Do :memo:
 Page | Status | -
 -------- | -------- | --------
@@ -34,6 +34,8 @@ Network | [Concept] | :arrows_counterclockwise:
 [JNM Consulting](https://jnmconsulting.org/) - A joint venture into software and hardware development, and automation
 
 [VivTheGoat](https://github.com/jeremysmai/Vivthegoat) - Upcoming project soon to be released onto the world, watch out
+
+[Wisconsin Injury Network](https://www.wiscinjury.com) - (WIN) A one stop medical network for all your needs, checkout all the offered services
 
 #### Software
 [Soft Bundle](https://github.com/jeremysmai/JDsSoftBundle) - A complete list of all recommended software for all three major platforms.
