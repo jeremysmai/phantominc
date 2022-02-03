@@ -1,10 +1,10 @@
 #  Phantom Inc. <img src="images/phanicon-32x32.svg" />
 ### The Official Phantom Inc. Repo
 <p align="center">
-<img src="images/phantom_inc.JPG" width="300" height="300" />
+<img src="images/phantom_inc.JPG" width="300" height="300" /></p>
  Website Link: [Phantom Inc.](https://www.phantominc.net)
-Currently Being built from the ground up using HTML5 CSS3 and some javascript.
-</p>
+ - Currently Being built from the ground up using HTML5 CSS3 and some javascript.
+
 ## To Do :memo:
 Page | Status | -
 -------- | -------- | --------
