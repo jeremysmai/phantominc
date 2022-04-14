@@ -31,6 +31,15 @@
      font-size: 18px;
      width: 45%;
    }
+   .blink {
+    animation: blinker 1s linear infinite;
+   }
+
+   @keyframes blinker {
+     50% {
+       opacity: 0;
+     }
+   }
    </style>
 </head>
 
@@ -47,7 +56,7 @@
   </p>
     <p>
   <h1>
-    Welcome! Looks like you're online, that's good!
+    Welcome! Looks like you're <div class="blink">online!</div>
   </h1>
   </p>
     <p>
