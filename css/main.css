@@ -79,6 +79,8 @@ ul {
   border: 1px solid #8bc34a;
   width: 45%;
   margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
   text-align: left;
 }
 
