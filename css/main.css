@@ -112,6 +112,7 @@ div {
 
 table {
   font-family: 'Noto Sans Mono', monospace;
+  font-size: 12px;
   border-collapse: collapse;
   width: 60%;
 }
@@ -119,7 +120,7 @@ table {
 td, th {
   border: 1px solid #ffffff;
   text-align: left;
-  padding: 8px;
+  padding: 10px;
 }
 
 tr:nth-child(even) {
