@@ -11,9 +11,8 @@
 
 #### Here's whats to come:
 - [ ] Script Suite (More Details Soon)
-- [ ] Streamer OS [Bots...] (Eventually)
 - [x] Shell Scripts (using bash)
 
 ##### More to come!
 
-###### |''| &copy; 2022
+###### |''| &copy; 2023
