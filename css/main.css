@@ -193,8 +193,12 @@ tr:nth-child(even) {
   border: 1px solid lightgray;
 }
 
-.logo {
+.logoshadow {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  margin: 15px;
+}
+
+.logo {
   margin: 15px;
 }
 
