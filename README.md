@@ -36,6 +36,8 @@ Network | [Concept] | :arrows_counterclockwise:
 
 [JNM Consulting](https://jnmconsulting.org/) - A joint venture into software and hardware development, and automation
 
+[JNM Security](https://jnmsecurity.com) - Another joint venture into the security side of things, from hardware to software
+
 [VivTheGoat](https://github.com/jeremysmai/Vivthegoat) - Upcoming project soon to be released onto the world, watch out
 
 [Wisconsin Injury Network](https://www.wiscinjury.com) - (WIN) A one stop medical network for all your needs, checkout all the offered services
