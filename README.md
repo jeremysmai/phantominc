@@ -1,6 +1,6 @@
 #  Phantom Inc. <img src="images/phanicon-32x32.svg" />
 ### The Official Phantom Inc. Repo
-<img src="images/phantom_inc.JPG" width="300" height="300" />
+<img src="images/phantom-icon.png" width="300" height="300" />
 
 Website Link: [Phantom Inc.](https://www.phantominc.net)
 
