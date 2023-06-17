@@ -6,7 +6,7 @@ Website Link: [Phantom Inc.](https://www.phantominc.net)
 
  - Currently Being built from the ground up using HTML5 CSS3 and some javascript.
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
 ## To Do :memo:
 Page | Status | -
