@@ -38,7 +38,7 @@ Network | [Concept] | :arrows_counterclockwise:
 
 [Wisconsin Injury Network](https://www.wiscinjury.com) - (WIN) A one stop medical network for all your needs, checkout all the offered services
 
-[Fear And Loathing GTARP](https://github.com/jeremysmai/FearandLoathingGTA) - A GTA RP server I threw together to work in FiveM
+[Fear And Loathing GTARP](https://jeremysmai.github.io/FearandLoathingGTA/) - A GTA RP server I threw together to work in FiveM
 
 #### Software
 [Soft Bundle](https://github.com/jeremysmai/JDsSoftBundle) - A complete list of all recommended software for all three major platforms.
@@ -57,4 +57,4 @@ Network | [Concept] | :arrows_counterclockwise:
 
 
 
-<img src="images/phanicon-bw.svg"/> version 1.2 &copy; Phantom Inc. 2023
+<img src="images/phanicon-bw.svg"/> version 1.3 &copy; Phantom Inc. 2023

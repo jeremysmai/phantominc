@@ -28,7 +28,7 @@ body {
   text-align: center;
   color: white;
   padding-top: 15px;
-  margin-bottom: 15px;
+  padding-bottom: 150px;
 }
 
 h1 {
@@ -112,6 +112,7 @@ div {
   max-width: 80%;
   text-align: center;
   padding-top: 50px;
+  padding-bottom: 150px;
 }
 
   .price {
