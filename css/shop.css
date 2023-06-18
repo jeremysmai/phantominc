@@ -122,6 +122,24 @@ div {
     border-radius: 15px;
     border: 1.5px solid #8bc34a;
     padding: 10px;
+    max-width: 306px;
+}
+
+.productbtn {
+  font-size: 15px;
+  font-family: 'Noto Sans Mono', monospace;
+  border: 1px solid white;
+  color: white;
+  background-color: #383838;
+  padding: 16px 32px;
+  margin: 4px 2px;
+}
+
+.productbtn:hover {
+  background-color: #383838;
+  color: #8bc34a;
+  opacity: 1.5;
+  border: 1px solid #8bc34a;
 }
 
 table {
