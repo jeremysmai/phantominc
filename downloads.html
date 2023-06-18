@@ -26,14 +26,18 @@
  </script>
 <center><img src="images/phantom-icon.png" class="logo" height="300" width="300" alt="Phantom Inc Logo" /></center>
 <div class="navigation">
- <a href="https://www.phantominc.net" alt="secure_yo_self"><button class="menu"> - <img src="images/phanicon-bw.svg"/> - </button></a>
- <a href="https://www.phantominc.net/startpage"><button class="menu"><i class="fas fa-chess-rook"></i></button></a>
- <a href="https://www.phantominc.net/fearandloathing"><button class="menu"><i class="fas fa-gamepad" alt="GTA RP Server"></i> GTA RP</button></a>
- <a href="https://github.com/jeremysmai"><button class="menu"><i class="fab fa-github"></i></button></a>
- </div>
+  <!-- Force all links to use HTTPS incase navigation to here was insecure -->
+  <a href="index.html" alt="secure_yo_self"><button class="menu"><i class="fa-solid fa-house-chimney"></i></button></a>
+  <a href="support.html"><button class="menu"><i class="fas fa-file-medical-alt" alt="Protect Yourself"></i> IT Support</button></a>
+  <button class="pagehere"><i class="fas fa-download" alt="Download YoSelf"></i> Downloads </button>
+  <a href="shop.html"><button class="menu"><i class="fas fa-shopping-cart"></i> Shop</button></a>
+  <a href="media.html"><button class="menu"><i class="far fa-lemon"></i> Media</button></a>
+  <a href="contact.html"><button class="menu"><i class="far fa-address-card" alt="Contact Me yoself"></i> Contact</button></a>
+</div>
 </head>
 
   <body>
+    <div class="main">
     <!-- Start of Downloads Section -->
   <h1><u>Downloads</u></h1>
   <h4>files are zipped for convienece</h4><br>
@@ -177,6 +181,10 @@
     <!--<a href="#"><button class="menu"><i class="fas fa-bars"></i> How To's </button></a> -->
     <!-- Place How To Guide Inline here, button reveals more buttons, walkthrough style -->
   </p>
+  <p><h2>Projects: Past & Current</h2></p>
+  <p> <a href="https://www.phantominc.net/startpage"><button class="menu"><i class="fas fa-chess-rook"></i> Startpage</button></a>
+    <a href="https://jeremysmai.github.io/FearandLoathingGTA/"><button class="menu"><i class="fas fa-gamepad" alt="GTA RP Server"></i> GTA RP</button></a>
+    <a href="https://github.com/jeremysmai"><button class="menu"><i class="fab fa-github"></i> Github</button></a></p>
   <br>
     <center><h4>If you ever feel my software is that good, feel free to donate using the button below</h4></center>
     <center><a href="https://paypal.me/jeremysmai"><button class="menu"><i class="fas fa-hand-holding-heart" alt="Donate?"></i> Donate</button></a>
@@ -184,6 +192,7 @@
     </center>
     <br>
     <br>
+  </div>
   </body>
   <footer>&copy; Phantom Inc. <script>document.write(/\d{4}/.exec(Date())[0])</script> <img src="images/phanicon-32x32.svg" height="20px" width="20px" />   version: 1.2</footer>
 </html>

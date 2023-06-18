@@ -13,21 +13,22 @@ html {
 
 a:link {
   color: #00e600;
+  text-decoration: underline;
 }
 
 a:visited {
-  color: green;
+  color: #00e600;
 }
 
 a:hover {
-  color: #8bc34a;
+  color: orange;
 }
 
 body {
   font-family: 'Noto Sans Mono', monospace;
   text-align: center;
   color: white;
-  padding-top: 10px 20px 15px 15px 15px;
+  padding-top: 15px;
   margin-bottom: 15px;
 }
 
@@ -84,6 +85,19 @@ ul {
   text-align: left;
 }
 
+.main {
+  margin: auto;
+  max-width: 80%;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.startpage {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
 navigation {
  display: inline-block;
  align-content: center;
@@ -106,8 +120,6 @@ notice {
 
 div {
   font-family: 'Noto Sans Mono', monospace;
-  color: white;
-  display: inline-block;
 }
 
 table {
@@ -144,7 +156,7 @@ tr:nth-child(even) {
   visibility: hidden;
   width: 200px;
   background-color: black;
-  color: lime;
+  color: #00ff00;
   font-size: 15px;
   text-align: center;
   border-radius: 6px;
@@ -177,20 +189,29 @@ tr:nth-child(even) {
 }
 
 .menu {
+  background-color: #383838;
   font-size: 15px;
   font-family: 'Noto Sans Mono', monospace;
-  border: 1px solid #8bc34a;
+  border: 1px solid #00ff00;
   color: white;
-  background-color: #383838;
   padding: 16px 32px;
   margin: 4px 2px;
 }
 
 .menu:hover {
-  background-color: #383838;
-  color: #FFA500;
-  opacity: 1.5;
-  border: 1px solid lightgray;
+  background-color: transparent;
+  color: #00ff00;
+  border: 1px solid #00ff00;
+}
+
+.pagehere {
+  font-size: 15px;
+  font-family: 'Noto Sans Mono', monospace;
+  background-color: transparent;
+  color: #00ff00;
+  padding: 16px 32px;
+  margin: 4px 2px;
+  border: 1px solid #00ff00;
 }
 
 .shadow {
