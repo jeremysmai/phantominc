@@ -19,13 +19,9 @@ Media | [Satisfied] | :white_check_mark:
 Shop | [Partially] | :ballot_box_with_check:
 Support | [Partially] | :ballot_box_with_check:
 Contact | [Partially] | :ballot_box_with_check:
-GTARP Fear&Loathing | [Partially] | :ballot_box_with_check:
 Network | [Concept] | :arrows_counterclockwise:
 
 [GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
-
-- Will eventually split off GTARP RP page into it's own Repo with packages for build!
-
 
 </br>
 
@@ -41,6 +37,8 @@ Network | [Concept] | :arrows_counterclockwise:
 [VivTheGoat](https://github.com/jeremysmai/Vivthegoat) - Upcoming project soon to be released onto the world, watch out
 
 [Wisconsin Injury Network](https://www.wiscinjury.com) - (WIN) A one stop medical network for all your needs, checkout all the offered services
+
+[Fear And Loathing GTARP](https://github.com/jeremysmai/FearandLoathingGTA)
 
 #### Software
 [Soft Bundle](https://github.com/jeremysmai/JDsSoftBundle) - A complete list of all recommended software for all three major platforms.
