@@ -4,9 +4,9 @@
 ### Required Parts :label:
 - [ ] Raspberry Pi Pico W 
 - [ ] 0.56 7-Segment LED HT16K33 Backpack [Adafruit]()
-- [ ] UPS Module, Li-Po Battery Stackable [Waveshare]()
+- [ ] UPS Module, Li-Po Battery Stackable [Waveshare](https://www.waveshare.com/product/pico-ups-b.htm)
 - [ ] 3axis Accelerometer LIS3DH [Adafruit]()
-- [ ] Stemma QT 4-pin Connectors [Adafruit]() [Sparkfun]() [Amazon]()
+- [ ] Stemma QT 4-pin Connectors [Adafruit - Male Plugs]() [Adafruit - Female Plugs]() [Sparkfun]()
 
 
 ### 3D Print Files :package:
