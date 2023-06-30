@@ -125,7 +125,8 @@ table {
   font-family: 'Noto Sans Mono', monospace;
   font-size: 12px;
   border-collapse: collapse;
-  width: 60%;
+  max-width: 740px;
+  margin: auto;
 }
 
 td, th {
