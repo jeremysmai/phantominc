@@ -234,3 +234,64 @@ footer {
   left: 0;
   bottom: 12px;
 }
+
+/* DOWNLOADS PAGE : 3D PRINTS ACCORDION */
+
+.printacc {
+  background-color: #383838;
+  color: transparent;
+  cursor: pointer;
+  color: white;
+  padding: 14px;
+  border: 1px solid #00ff00;
+  text-align: left;
+  outline: none;
+  font-family: 'Noto Sans Mono', monospace;
+  font-size: 12px;
+  transition: 0.4s;
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}
+
+.active, .printacc:hover {
+  background-color: transparent;
+}
+
+.printacc:after {
+  content: '\2193';
+  font-weight: bold;
+  float: right;
+}
+
+.active:after {
+  content: "\2191";
+  text-shadow: 2px 2px 4px black;
+}
+
+.printpanel {
+  padding: 0 18px;
+  max-height: 0;
+  font-size: 12px;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  max-width: 600px;
+  width: 100%;
+  margin: auto;
+}
+
+.menu2 {
+  background-color: #383838;
+  font-size: 12px;
+  font-family: 'Noto Sans Mono', monospace;
+  border: 1px solid #00ff00;
+  color: white;
+  padding: 12px 26px;
+  margin: 4px 2px;
+}
+
+.menu2:hover {
+  background-color: transparent;
+  color: #00ff00;
+  border: 1px solid #00ff00;
+}
