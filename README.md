@@ -9,7 +9,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
 ### Repo Links
-[Downloads](/downloads/ReadMe.md) | [Games](/games/readme.md)
+| [Downloads](/downloads/README.md) | [Games](/games/README.md) |
 
 ## To Do :memo:
 Page | Status | -
