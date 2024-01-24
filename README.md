@@ -2,11 +2,14 @@
 ### The Official Phantom Inc. Repo
 <img src="images/phantom-icon.png" width="300" height="300" />
 
-Website Link: [Phantom Inc.](https://www.phantominc.net)
+## Website Link: [Phantom Inc.](https://www.phantominc.net)
 
  - Currently Being built from the ground up using HTML5 CSS3 and some javascript.
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+
+## Repo Links
+[Downloads](/Downloads) | [Games](/Games)
 
 ## To Do :memo:
 Page | Status | -
