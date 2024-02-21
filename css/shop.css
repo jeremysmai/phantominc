@@ -33,16 +33,15 @@ body {
 
 h1 {
   font-family: 'Noto Sans Mono', monospace;
-  font-size: 40px;
+  font-size: 50px;
   color: white;
   margin: auto;
   text-align: center;
-  text-decoration: underline;
 }
 
 h2 {
   font-family: 'Noto Sans Mono', monospace;
-  font-size: 18px;
+  font-size: 25px;
   color: white;
   margin: auto;
   text-align: center;
@@ -51,7 +50,7 @@ h2 {
 h3 {
   font-family: 'Noto Sans Mono', monospace;
   font-size: 15px;
-  color: #00ff00;
+  color: white;
   margin: auto;
   text-align: center;
 }
@@ -128,6 +127,16 @@ div {
     border: 1.5px solid #00ff00;
     padding: 10px;
     max-width: 306px;
+}
+.featuredproduct {
+  background-image: linear-gradient(transparent,#383838);
+  font-family: 'Noto Sans Mono', monospace;
+  color: white;
+  display: inline-block;
+  border-radius: 15px;
+  border: 1.5px solid #00ff00;
+  padding: 15px;
+  max-width: 706px;
 }
 
 .productbtn {
@@ -231,6 +240,7 @@ tr:nth-child(even) {
 .pagehere {
   font-size: 15px;
   font-family: 'Noto Sans Mono', monospace;
+  background-image: linear-gradient(transparent,#383838);
   background-color: transparent;
   color: #00ff00;
   padding: 16px 32px;
