@@ -248,7 +248,7 @@ footer {
   text-align: left;
   outline: none;
   font-family: 'Noto Sans Mono', monospace;
-  font-size: 12px;
+  font-size: 14px;
   transition: 0.4s;
   width: 100%;
   max-width: 400px;
@@ -278,7 +278,7 @@ footer {
   transition: max-height 0.2s ease-out;
   max-width: 600px;
   width: 100%;
-  margin: auto;
+  margin:auto;
 }
 
 .menu2 {

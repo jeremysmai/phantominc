@@ -135,8 +135,18 @@ div {
   display: inline-block;
   border-radius: 15px;
   border: 1.5px solid #00ff00;
-  padding: 15px;
-  max-width: 706px;
+  padding: 25px;
+  max-width: 806px;
+}
+
+.productpage {
+  font-family: 'Noto Sans Mono', monospace;
+  color: white;
+  display: inline-block;
+  border-radius: 15px;
+  border: 1.5px solid #00ff00;
+  padding: 10px;
+  max-width: 1000px;
 }
 
 .productbtn {
