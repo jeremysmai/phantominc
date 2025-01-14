@@ -77,7 +77,7 @@ h5 {
 ul {
   list-style-type: square;
   border: 1px solid #00ff00;
-  width: 45%;
+  max-width: 600px;
   margin: auto;
   padding-top: 10px;
   padding-bottom: 10px;
