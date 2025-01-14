@@ -60,4 +60,4 @@ Network | [Concept] | :arrows_counterclockwise:
 
 
 
-<img src="images/phanicon-bw.svg"/> version 1.3 &copy; Phantom Inc. 2023
+<img src="images/phanicon-bw.svg"/> version 1.3 &copy; Phantom Inc. 2025

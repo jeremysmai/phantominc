@@ -10,9 +10,13 @@
 ### Scripts / Terminal
  ~ | Filename | Version | Description
 ---------------|---------------|---------------|---------------
-:scroll: | [update\.sh\.zip](https://jeremysmai.github.io/phantominc/downloads/scripts/update.sh.zip) | 0.3 | Update script for raspberry pi
-:books: | [\.bash_profile\.zip](https://jeremysmai.github.io/phantominc/downloads/bash_profile.zip) | 0.1 | Terminal profile for use on Mac OS X
-:books: | [\.bashrc\.zip](https://jeremysmai.github.io/phantominc/downloads/bashrc.zip) | 0.2 | Terminal profile for Linux use, mostly Pi
+:scroll: | [update\.sh\.zip](https://jeremysmai.github.io/phantominc/downloads/scripts/update.sh.zip) | 0.3 | Update script for Raspberry Pi (Debian)
+
+## Profiles / Termianl / Bash
+~ | Filename | Version | Description
+---------------|---------------|---------------|---------------
+:books: | [\.bash_profile\.zip](https://jeremysmai.github.io/phantominc/downloads/profiles/bash_profile.zip) | 0.1 | Terminal profile for use on Mac OS X
+:books: | [\.bashrc\.zip](https://jeremysmai.github.io/phantominc/downloads/profiles/bashrc.zip) | 0.2 | Terminal profile for Linux use, mostly  Raspberry Pi (Debian)
 
 ##### :warning: Feel free to look through the software before running! Be safe! :warning:
 
@@ -22,4 +26,4 @@
 
 ##### More to come!
 
-###### |''| &copy; 2024
+###### |''| &copy; 2025

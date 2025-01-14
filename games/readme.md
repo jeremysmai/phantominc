@@ -5,4 +5,4 @@
 - Pygame (Attempt at a game built on Pi for Pi)
 - Phangame (In early early concept stages, hope to use phantom character)
 
-&copy; Phantom Inc 2024
+&copy; Phantom Inc 2025
