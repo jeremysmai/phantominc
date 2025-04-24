@@ -24,7 +24,7 @@ Support | [Partially] | :ballot_box_with_check:
 Contact | [Partially] | :ballot_box_with_check:
 Network | [Concept] | :arrows_counterclockwise:
 
-[GITHUB Site](https://jeremysmai.github.io/phantominc) :test_tube:
+[Github.io Site Link](https://jeremysmai.github.io/phantominc) :test_tube:
 
 </br>
 
@@ -41,7 +41,7 @@ Network | [Concept] | :arrows_counterclockwise:
 
 [Wisconsin Injury Network](https://www.wiscinjury.com) - (WIN) A one stop medical network for all your needs, checkout all the offered services
 
-[Fear And Loathing GTARP](https://jeremysmai.github.io/FearandLoathingGTA/) - A GTA RP server I threw together to work in FiveM
+[Fear And Loathing (GTARP)](https://jeremysmai.github.io/FearandLoathingGTA/) - A GTA RP server I threw together to work in FiveM
 
 #### Software
 [Soft Bundle](https://github.com/jeremysmai/JDsSoftBundle) - A complete list of all recommended software for all three major platforms.
